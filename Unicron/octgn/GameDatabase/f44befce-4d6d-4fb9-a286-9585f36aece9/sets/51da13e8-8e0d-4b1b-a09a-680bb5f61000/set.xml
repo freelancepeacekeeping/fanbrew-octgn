@@ -1,0 +1,172 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Unicron" id="51da13e8-8e0d-4b1b-a09a-680bb5f61000" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+	<card id="f002cef8-e965-4969-b778-42c140128c1f" name="Leashed Will" size="Small">
+		<property name="Type" value="Upgrade - Utility"/>
+		<property name="Black Pips" value="1"/>
+		<property name="Text" value="Put on Unicronians only. When one of your Unicronians battles -> Plan 1. (You may put 1 card from your hand on top of your deck.)."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="a7bab216-67df-44eb-88c8-63447526347f" name="Imminent Chaos" size="Small">
+		<property name="Type" value="Action"/>
+		<property name="White Pips" value="1"/>
+		<property name="Green Pips" value="1"/>
+		<property name="Text" value="Put 1 Chaos Counter to Unicron, Chaos Bringer."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="a6c03272-de53-4836-9042-9786ad418ac6" name="Enhanced Talons" size="Small">
+		<property name="Type" value="Upgrade - Weapon"/>
+		<property name="Orange Pips" value="1"/>
+		<property name="Black Pips" value="1"/>
+		<property name="Text" value="Put on Unicronians only. When the upgraded character attacks -> Do 1 damage to the defender."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="8ceec27b-c928-4b76-8201-57664d9a57eb" name="Energon Harvest" size="Small">
+		<property name="Type" value="Action"/>
+		<property name="White Pips" value="1"/>
+		<property name="Black Pips" value="1"/>
+		<property name="Text" value="An opponent of your choice chooses one -> .That player does 2 damages to each of their characters. .You put 2 Chaos Counters on Unicron, Chaos Bringer."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="0865bd6b-2def-48c4-8823-4be5b5f77d83" name="Insignificance" size="Small">
+		<property name="Type" value="Action"/>
+		<property name="Blue Pips" value="1"/>
+		<property name="Text" value="Scrap an enemy Upgrade. That Upgrade's owner scraps a card from their hand."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="cdb1f267-8783-4eb9-8ad9-68814d8e4b74" name="Menacing Gaze" size="Small">
+		<property name="Type" value="Action"/>
+		<property name="Blue Pips" value="1"/>
+		<property name="Orange Pips" value="1"/>
+		<property name="Text" value="Choose an enemy -> Your opponent flips it to another mode."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="be658582-3083-484e-8464-17d8b58da92b" name="Light Our Darkest Hour..." size="Small">
+		<property name="Type" value="Stratagem"/>
+		<property name="Text" value="Characters other than Unicron, Chaos Bringer have +1 ATK, +1 DEF and Pierce 1."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="b9314ac2-f46a-459b-95ee-79f5b38fa496" name="Hand Of Doom" size="Small">
+		<property name="Type" value="Upgrade - Weapon"/>
+		<property name="Orange Pips" value="1"/>
+		<property name="Text" value="Put on Unicron, Chaos Bringer only. When Unicron, Chaos Bringer attacks -> Do 1 damage to each enemy."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="a542135a-c7d6-4395-a466-a5d8d47a0529" name="Colossal Proportions" size="Small">
+		<property name="Type" value="Upgrade - Utility"/>
+		<property name="Blue Pips" value="1"/>
+		<property name="Text" value="Put on Unicron, Chaos Bringer only. When the upgraded character attacks -> The defender can't use Tough this turn."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="5c4d5178-a594-4eab-8ece-6bd740296fbd" name="Bend To My Will" size="Small">
+		<property name="Type" value="Secret Action"/>
+		<property name="Orange Pips" value="1"/>
+		<property name="Text" value="Reveal -> Before your opponent chooses an attacker during their turn. When Revealed -> Your opponent taps one of their characters that has 10 stars or fewer."/>
+		<property name="Rarity" value="Rare"/>
+	</card>
+	
+	<card id="0fc38719-f2ad-4cbc-9cc8-124a4590e707" name="Unicron - Chaos Bringer" size="Extra Large">
+		<property name="Type" value="Character - Alt Mode"/>
+		<property name="ATK" value="0"/>
+		<property name="DEF" value="0"/>
+		<property name="HP" value="35"/>
+		<property name="Stars" value="25"/>
+		<property name="Faction" value="Unicronian"/>
+		<property name="Text" value="At the start of your turn -> Draw a card. Put 2 Chaos Counters on this. If this would take 2 or more damage -> Remove a Chaos Counter from this instead. At the start of your turn, if you have 20 or more Chaos Counters on this -> You win the game."/>
+		<property name="Traits" value="Unicronian"/>
+		<property name="Rarity" value="Super Rare"/>
+			
+		<alternate name="Unicron - Chaos Bringer" size="Extra Large" type="bot">
+			<property name="Type" value="Character - Bot Mode"/>
+			<property name="ATK" value="6"/>
+			<property name="DEF" value="1"/>
+			<property name="HP" value="35"/>
+			<property name="Text" value="Once per turn you may remove a number of Chaos Counters from this to do one of the following effects -> .1 -> Do 1 damage to an enemy. .2 -> Draw 2, Plan 1. .3 -> Repair 3 damage from this. .5 -> Return a card from your scrap pile into your hand. .2+X -> KO an enemy that has X stars."/>
+			<property name="Traits" value="Unicronian, Melee, Ranged"/>
+		</alternate>
+	</card>
+	
+	<card id="44e62566-21d3-4ce9-9643-bf5920da29f9" name="Cyclonus - Wild Soldier" size="Large">
+		<property name="Type" value="Character - Alt Mode"/>
+		<property name="ATK" value="4"/>
+		<property name="DEF" value="2"/>
+		<property name="HP" value="13"/>
+		<property name="Stars" value="10"/>
+		<property name="Faction" value="Decepticon"/>
+		<property name="Text" value="Focus 2 (Before flipping battle cards when battling Look at the top 2 cards of your deck. You may scrap any number of them. Put the rest back in any order)."/>
+		<property name="Traits" value="Unicronian, Spaceship, Ranged"/>
+		<property name="Rarity" value="Super Rare"/>
+			
+		<alternate name="Cyclonus - Wild Soldier" size="Large" type="bot">
+			<property name="Type" value="Character - Bot Mode"/>
+			<property name="ATK" value="4"/>
+			<property name="DEF" value="2"/>
+			<property name="HP" value="13"/>
+			<property name="Text" value="When you flip to this mode -> This gets +2 ATK until the end of the turn. If he has a weapon, instead he gets +4 ATK until the end of the turn."/>
+			<property name="Traits" value="Unicronian, Melee"/>
+		</alternate>
+	</card>
+	
+	<card id="cdb0e0a8-34e9-411b-ad84-de94a8fced58" name="Galvatron - Decepticon Warlord" size="Large">
+		<property name="Type" value="Character - Alt Mode"/>
+		<property name="ATK" value="5"/>
+		<property name="DEF" value="3"/>
+		<property name="HP" value="17"/>
+		<property name="Stars" value="15"/>
+		<property name="Faction" value="Decepticon"/>
+		<property name="Text" value="This can untapped enemies as though they were tapped"/>
+		<property name="Traits" value="Unicronian, Tank, Ranged"/>
+		<property name="Rarity" value="Super Rare"/>
+			
+		<alternate name="Galvatron - Decepticon Warlord" size="Large" type="bot">
+			<property name="Type" value="Character - Bot Mode"/>
+			<property name="ATK" value="6"/>
+			<property name="DEF" value="2"/>
+			<property name="HP" value="17"/>
+			<property name="Text" value="When this attacks and damages an enemy -> Scrap an Upgrade from that enemy."/>
+			<property name="Traits" value="Unicronian, Leader, Ranged"/>
+		</alternate>
+	</card>
+	
+	<card id="a85a69fb-2746-43a5-a7dd-3f3f71f83011" name="Scourge - Decepticon Tracker" size="Large">
+		<property name="Type" value="Character - Alt Mode"/>
+		<property name="ATK" value="4"/>
+		<property name="DEF" value="2"/>
+		<property name="HP" value="12"/>
+		<property name="Stars" value="10"/>
+		<property name="Faction" value="Decepticon"/>
+		<property name="Text" value="When you flip to this mode -> Return a Sweeps from your KO area to the battlefield tapped and fully repaired."/>
+		<property name="Traits" value="Unicronian, Spaceship, Ranged"/>
+		<property name="Rarity" value="Super Rare"/>
+			
+		<alternate name="Scourge - Decepticon Tracker" size="Large" type="bot">
+			<property name="Type" value="Character - Bot Mode"/>
+			<property name="ATK" value="4"/>
+			<property name="DEF" value="2"/>
+			<property name="HP" value="12"/>
+			<property name="Text" value="Brave (Enemies attack this character is able.) When this defends and you flip at least 3 different battle icons -> Choose one of your other characters. Damage from this attack is done to that character instead."/>
+			<property name="Traits" value="Unicronian, Melee"/>
+		</alternate>
+	</card>
+	
+	<card id="ece7b7d8-7d3a-40d5-a128-b602447bbc82" name="Sweeps - Minion" size="Small">
+		<property name="Type" value="Character - Alt Mode"/>
+		<property name="ATK" value="3"/>
+		<property name="DEF" value="2"/>
+		<property name="HP" value="4"/>
+		<property name="Stars" value="0"/>
+		<property name="Faction" value="Decepticon"/>
+		<property name="Text" value="Brave (Enemies attack this character if able.) Revenge -> Put 1 Chaos Counter on Unicron, Chaos Bringer. (Use a character's Revenge abilities when it's KO'd.)."/>
+		<property name="Traits" value="Unicronian, Ranged"/>
+		<property name="Rarity" value="Super Rare"/>
+	</card>
+</cards>
+</set>

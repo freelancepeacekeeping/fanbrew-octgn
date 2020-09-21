@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="0fc38719-f2ad-4cbc-9cc8-124a4590e707">Unicron - Chaos Bringer</card>
+    <card qty="1" id="a85a69fb-2746-43a5-a7dd-3f3f71f83011">Scourge - Decepticon Tracker</card>
+    <card qty="2" id="ece7b7d8-7d3a-40d5-a128-b602447bbc82">Sweeps - Minion</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="e5c89a0d-35e6-4cc6-9a30-409c7e0275f8">Terrifying Resilience</card>
+    <card qty="3" id="181b3347-cc34-437c-9f3f-997187e13631">Primary Laser</card>
+    <card qty="3" id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8">Handheld Blaster</card>
+    <card qty="3" id="ad9cb4b3-eba1-452e-b83d-378bfeaa20d2">Improvised Shield</card>
+    <card qty="3" id="a6c03272-de53-4836-9042-9786ad418ac6">Enhanced Talons</card>
+    <card qty="3" id="f002cef8-e965-4969-b778-42c140128c1f">Leashed Will</card>
+    <card qty="3" id="91da5cc1-5e92-43c0-8fd8-7a15d20dd466">Fight for Position</card>
+    <card qty="3" id="a7bab216-67df-44eb-88c8-63447526347f">Imminent Chaos</card>
+    <card qty="2" id="537dbd2e-d8c7-442f-8579-15066e605c45">Disassemble</card>
+    <card qty="2" id="7c2d5fc2-c141-42b8-9781-797c0da52049">Hold The Line</card>
+    <card qty="2" id="adfd744c-3808-41c7-92cc-29193af73dcf">Unconventional Flying Object</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="44e62566-21d3-4ce9-9643-bf5920da29f9">Cyclonus - Wild Soldier</card>
+    <card qty="1" id="cdb0e0a8-34e9-411b-ad84-de94a8fced58">Galvatron - Decepticon Warlord</card>
+    <card qty="3" id="0865bd6b-2def-48c4-8823-4be5b5f77d83">Insignificance</card>
+    <card qty="3" id="8ceec27b-c928-4b76-8201-57664d9a57eb">Energon Harvest</card>
+    <card qty="3" id="cdb1f267-8783-4eb9-8ad9-68814d8e4b74">Menacing Gaze</card>
+    <card qty="3" id="b9314ac2-f46a-459b-95ee-79f5b38fa496">Hand Of Doom</card>
+    <card qty="3" id="a542135a-c7d6-4395-a466-a5d8d47a0529">Colossal Proportions</card>
+    <card qty="3" id="5c4d5178-a594-4eab-8ece-6bd740296fbd">Bend To My Will</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
