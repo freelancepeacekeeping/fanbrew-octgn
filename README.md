@@ -2,4 +2,9 @@
 
 This contains a slew of fan-brewed cards for Transformers the Trading Card Game.
 
-To install, unpack the zip file over the top of your OCTGN install. 
+To install, unpack the zip file over the top of your OCTGN install. A Decks folder will be created in the top level of your OCTGN containing various decks files that use these cards. 
+
+This provides:
+
+* Unicron: Powered by Primus: https://youtu.be/ZFMfQUzCDA8
+* Alpha Trion Protocols: https://www.facebook.com/groups/alphatrionprotocols
