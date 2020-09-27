@@ -127,7 +127,7 @@
 <property name="Type" value="Stratagem" />
 <property name="Stars" value="1" />
 <property name="Faction" value="Autobot" />
-<property name="Text" value="Your starting Star limit increases by 1 if you have only Dinobots on your starting team. Your Dinobots have +2 HP. When one of your Dinobots takes non-attack damage during your opponent's turn and you have Dinobot Sludge, Mighty Stomper on the battlefield -> Repair 1 from it. " />
+<property name="Text" value="If you will begin the game with all Dinobots -> Your starting Star limit increases by 1. Your Dinobots have +2 HP. When one of your Dinobots takes non-attack damage during your opponent's turn and you have Dinobot Sludge, Mighty Stomper on the battlefield -> Repair 1 from it. " />
 <property name="Rarity" value="Rare" />
 <property name="Draft Type" value="Stratagem" />
 </card>
