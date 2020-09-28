@@ -8,3 +8,4 @@ This provides:
 
 * Unicron: Powered by Primus: https://youtu.be/ZFMfQUzCDA8
 * Alpha Trion Protocols: https://www.facebook.com/groups/alphatrionprotocols
+* The ARK Spoilers: https://www.facebook.com/groups/thearktftcg

@@ -1,0 +1,150 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Ark - Wave 1" id="c7f7fb05-d81d-4500-a6ac-5cb41dfc8dcc" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+    <card id="5d6d7406-3953-49f7-9c0d-8aceb93f252d" name="Do It With Style!" size="Small">
+        <property name="Card Number" value="S08" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Replace the text 'an enemy that doesn't have Pierce' on your Autobot Jazz, Special Ops with 'an enemy that has 8 Stars or fewer.'" />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="d0d0fcc7-6e93-42b5-a002-3deec01232dc" name="Scout The Area" size="Small">
+        <property name="Card Number" value="S17" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your deck can have up to 2 extra Stars of [W] cards. Once per game, at the start of your turn -> You may deploy a character from under Trypticon, Assault Base to the battlefield, If you do, flip this. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="f5e6f2c0-f671-4422-bdcd-701a1212d343" name="300-TT Crusher Claw" size="Small">
+        <property name="Card Number" value="1" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Pierce 2. When you put this on a character that has 19 Stars or more -> Tap an enemy Decepticon that has 10 Stars or fewer."/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="e33851a2-936d-4098-a279-b0d171c4f309" name="Assault Formation" size="Small">
+        <property name="Card Number" value="5" />
+        <property name="Type" value="Action" />
+        <property name="Black Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="One of your Melee characters gets Bold 2 until end of turn. Move a damage counter from one of your Ranged characters to an enemy. Flip one of your Specialists to another mode. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="ffd6f639-f0fb-4cd6-9f42-8e091e941688" name="Cacophonous Failure" size="Small">
+        <property name="Card Number" value="7" />
+        <property name="Type" value="Secret Action" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="Reveal -> As your opponent plays an action with no battle icons.  When Revealed -> Scrap that Action and it has no effect. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="3694faa7-1f90-4e6c-80e2-f07a8c7d8481" name="Cloud Cover" size="Small">
+        <property name="Card Number" value="9" />
+        <property name="Type" value="Secret Action" />
+        <property name="Black Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="Reveal -> If one or more damage counters would be moved from one character to another.  When Revealed -> Damage counters can't be moved between characters this turn. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="7fbec71a-7fa2-40d2-a041-d15efd4213de" name="H-M Laser Cannon" size="Small">
+        <property name="Card Number" value="20" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Blue Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Can't be put on Decepticons. When you put this on a Guardian or a character in combiner mode -> Do 2 damage to each enemy. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="3801c098-f24a-475d-949d-f694daa6b42d" name="Stasis Field" size="Small">
+        <property name="Card Number" value="29" />
+        <property name="Type" value="Secret Action" />
+        <property name="Blue Pips" value="1" />
+        <property name="Text" value="Reveal -> When one of your characters defends against an enemy in bot or body mode.  When Revealed -> The attacking player flips that attacker to alt mode. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+
+    <card id="fa2e28df-27bb-4262-9707-39f82daaa494" name="Cyclonus - Loyal Enforcer" size="Large">
+        <property name="Card Number" value="T06" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Plane, Spaceship, Ranged" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="When you flip to this mode -> You may scrap a [W] card from your hand. If you do, move 2 damage from this to an enemy." />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Cyclonus - Loyal Enforcer" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="If one of your Leaders that has 10 Stars or more would take attack damage -> You may have this take that damage instead." />
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="df56c6ea-efbe-42a3-a1d8-a8a32d0fa70e" name="Jazz - Outta Sight, Dynamite Lieutenant" size="Large">
+        <property name="Card Number" value="T14" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="9" />
+        <property name="Traits" value="Leader, Car" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Your opponent scraps a card at random from their hand. You may return a card that shares a card type with the scrapped card from your scrap pile to hand." />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Jazz - Outta Sight, Dynamite Lieutenant" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="Each of your Autobots has Pierce 2. When you flip to this mode -> Look at your opponent's hand." />
+            <property name="Traits" value="Leader, Ranged" />
+        </alternate>
+    </card>
+    <card id="1025aca2-2e10-46fd-8a59-8ba010261a42" name="Specialist Countdown - Transport - Space Explorer" size="Small">
+        <property name="Card Number" value="T30" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="6" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="4" />
+        <property name="Traits" value="Tank, Specialist" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your starting Star limit is increased by 2 if Omega Supreme is on your starting team. This has Stealth while you have Omega Supreme on the battlefield." />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Specialist Countdown - Transport - Space Explorer" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="1" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="[TAP] Scrap a card from your hand -> Draw 2 cards, then put a card from your hand on top of your deck. If you have a character in combiner mode, instead draw 3 cards, then put a card from your hand on top of your deck." />
+            <property name="Traits" value="Specialist" />
+        </alternate>
+    </card>
+    <card id="00949c99-24be-47c5-be55-aa1c63346247" name="Bruticus - Unstoppable Giant" size="Extra Large">
+        <property name="Card Number" value="" />
+        <property name="Type" value="Character - Combiner Mode" />
+        <property name="ATK" value="7" />
+        <property name="HP" value="39" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="24" />
+        <property name="Traits" value="Combaticon, Melee, Ranged" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Bold 2, Tough 2, Pierce 2. When this attacks on the turn he's combined -> For each battle card you flip that has at least [K], do 1 damage to an enemy. " />
+        <property name="Rarity" value="" />
+    </card>
+</cards>
+</set>
