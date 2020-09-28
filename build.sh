@@ -1,7 +1,7 @@
-VERSION='1.0'
-ZIP_FILE='OCTGN-Fanbrew-1.0.zip'
+VERSION='1.1'
+ZIP_FILE="OCTGN-Fanbrew-${VERSION}.zip"
 
-rm ${ZIP_FILE}
+rm -f ${ZIP_FILE}
 for i in */
 do
     echo "Adding ${i}"
