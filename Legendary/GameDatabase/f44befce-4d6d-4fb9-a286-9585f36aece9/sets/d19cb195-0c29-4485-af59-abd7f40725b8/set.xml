@@ -1,0 +1,121 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Legendary - Wave X" id="d19cb195-0c29-4485-af59-abd7f40725b8" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+    <card id="07011fc9-7849-43cd-805b-fb87a8bee3ed" name="Careful Calculations" size="Small">
+        <property name="Card Number" value="X:S18" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Decepticon Shockwave, Cybertron Commander has +3 HP. If an opponent's character would be KO'd through non-attack damage -> Draw a card and discard a random card from your opponent's hand. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="08c882d0-f77c-4e70-9052-ed0b3c08bb49" name="Enigma of Combination" size="Small">
+        <property name="Card Number" value="X:S08" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="0" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Once per game, when your opponent's cards would cause you to scrap a card with 'Enigma' in its name from your hand -> You may instead flip this." />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="0abcfcdc-1e60-410e-aa6c-db3565cb4c0a" name="Firecon Frenzy" size="Small">
+        <property name="Card Number" value="X:S05" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Each of your Firecons have +1 ATK and +1 DEF. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="0b93a0b0-636b-46c7-9f98-8fc389994ccf" name="Firefighter's Resolve" size="Small">
+        <property name="Card Number" value="X:S11" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Inferno, Fearless Firefighter has +3 HP. When your Inferno is in bot mode and defends -> You may pput a card with at least [O][U] that you flipped into your hand after the battle. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="136421a9-4438-42f9-b2c6-3efc422404ad" name="Firing Range" size="Small">
+        <property name="Card Number" value="X:S06" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Darkmount, Cruel Overlord has +3 HP. When one of your Tanks becomes tapped -> Do 1 damage to an enemy character in bot or body mode. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="171bbf43-20be-42c5-8ffc-969ba99c09bd" name="It's Over, Prime" size="Small">
+        <property name="Card Number" value="X:S14" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Megatron, Living Weapon has +1 HP, +1 DEF in alt mode, and +1 ATK in bot mode. If your starting team was only Decepticons -> This costs 1 Star less. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="17c7ae66-a477-4b2c-8ce7-fe16cce2d2dc" name="Kablam!!" size="Small">
+        <property name="Card Number" value="X:S25" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Warpath, Confident Sharpshooter has +3 HP. Your Warpath, Confident Sharpshooter has Stealth while in alt mode. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="1975871e-a382-4310-a82c-a4da12695126" name="My Time Will Come" size="Small">
+        <property name="Card Number" value="X:S21" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Before the game begins -> You may reveal a Vaporize and a Ramming Speed from your deck and put them into your hand. Your Captain Starscream, Infantry, Air Commander, has +1 ATK. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="1bb565d8-633f-48fd-a98b-f5e294197cd4" name="Sky Arena" size="Small">
+        <property name="Card Number" value="X:S23" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Thundercrakcer, Mach Warrior has +1 DEF. Replace the text 'to a Melee enemy' on your Thundercracker, Mach Warrior with 'to an enemy character'. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="1e2ed5c3-53d0-4bfe-a915-0e238a2d1df2" name="Starboard Entrance" size="Small">
+        <property name="Card Number" value="X:S20" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="At the start of your turn, put a counter on this card (Max: 4). If this has at least 1 counter on it on your turn, you may combine Sky Lynx, Autobot Shuttle, and Sky Lynx, Shuttle Transport into SKy Lynx, Magnificent Warrior. Then repair damage from Sky Lynx equal to the number of counterson this card. Then, flip this - the counters remain. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="203dbc7c-df9c-468c-92f0-9a14687db0e4" name="Stormy Weather" size="Small">
+        <property name="Card Number" value="X:S01" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Acid Storm, Toxic Terror has +1 DEF. When your Acid Storm, Toxic Terror is in alt mode -> It has Stealth. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="260fb70b-af46-4198-8805-3f1d1e4fca77" name="Till All Are One" size="Small">
+        <property name="Card Number" value="X:S15" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Optimus Prime, Battlefield Legend has +1 HP. Once per game, while your Optimus Prime, Battlefield Legend is on the battlefield and one of your other Autobots gets KO'd -> Untap your Optimus Prime, Battlefield Legend OR attack the character KO'd your Autobot with him if he is untapped. Then, flip this. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="274f35a7-ad35-46d4-a9ca-c4f1ad456f40 " name="The Warrior Returns Alive" size="Small">
+        <property name="Card Number" value="X:S07" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Once per game, when you flip an Autobot to bot mode -> You may return Elita-1, Special Ops, Ranger from the KO area to the battlefield and repair 1 damage from her. At the end of your turn, KO her. Then, flip this. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+</cards>
+</set>
