@@ -13,7 +13,7 @@
         <property name="Card Number" value="X:S08" />
         <property name="Type" value="Stratagem" />
         <property name="Stars" value="0" />
-        <property name="Faction" value="Decepticon" />
+        <property name="Faction" value="" />
         <property name="Text" value="Once per game, when your opponent's cards would cause you to scrap a card with 'Enigma' in its name from your hand -> You may instead flip this." />
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Stratagem" />
