@@ -117,5 +117,113 @@
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Stratagem" />
     </card>
+
+    <card id="2c09aa04-30ab-4868-8d36-ac80e1083d43" name="Coming Aboard" size="Small">
+        <property name="Card Number" value="X:5" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Do 2 damage to one of your Melee characters. If you do, deal 2 damage to an enemy. If this KO's a character -> Do 1 damage to each enemy. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="60039932-3c0a-48f3-884e-e854ad57c888" name="Dual Hammers" size="Small">
+        <property name="Card Number" value="X:8" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Orange Pips" value="Orange" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Put only on Rack'N'Ruin. While the upgraded character is in Bot 1 mode -> It has Bold 1. When the upgraded character flips to Bot 2 mode -> Do 1 damage to an enemy in bot or body mode. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="6186bb40-9aac-4072-81c4-8d597ddd07a8" name="Energon Cubes" size="Small">
+        <property name="Card Number" value="X:10" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="Orange Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Star" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Once during your turn you may scrap a card from your hand to move this to another one of your characters. When this is attached to a character, it gains an effect based on its faction: Autobot: Repair 2; Decepticon: +2 ATK until the end of your turn; Mercenary: Do 2 damage to an enemy Autobot or Decepticon. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="652d0165-eeb6-485a-b50b-f85c92f17587" name="Firing Squad" size="Small">
+        <property name="Card Number" value="X:11" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="You may this on your turn if you go first. Do damage to an enemy equal to how many more characters you had at the beginning of the game than your opponent. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="30bfc6cf-df1a-4bf2-a7f6-8f1c3f03f2df" name="Magnificence Beam" size="Small">
+        <property name="Card Number" value="X:25" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Orange Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Put only on Sky Lynx. The upgraded character has +1 ATK and Pierce 1 against non-Autobots for each counter on Starboard Entrance. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="4e8c4347-ce2e-4fe7-bb2f-a372892b8dac" name="Upgrade's Upgrade" size="Small">
+        <property name="Card Number" value="X:22" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="While the upgraded character has a Weapon equipped -> It has +1 ATK. While the upgraded character has an Armor equipped -> It has +1 DEF. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="5e24adeb-7eba-4146-a756-cdd7214ae204" name="Wreckers United" size="Small">
+        <property name="Card Number" value="X:48" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Repair 1 damage from each Wrecker you have on the battlefield. Then, you may flip one of your Wreckers. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="5e389d2e-1d01-4a7e-b281-50cc5d2ff0ae" name="Wrecking Crew" size="Small">
+        <property name="Card Number" value="X:47" />
+        <property name="Type" value="Action" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="For each Wrecker on your starting team -> Scrap the top 2 cards of your opponent's deck. For each Action scrapped this way, do 1 damage to an enemy. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="4e3a25b9-6671-478c-8209-366475efaedf" name="Transport Shuttle" size="Small">
+        <property name="Card Number" value="X:20" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="Blue Pips" value="1" />
+        <property name="Black Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Stealth. If the upgraded character takes damage -> Scrap this and draw a card. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="3c13cc65-e23d-4430-9ec7-e48c3c799cd3" name="Powerful Aura" size="Small">
+        <property name="Card Number" value="X:16" />
+        <property name="Type" value="Upgrade - Armor Utility" />
+        <property name="DEF" value="2" />
+        <property name="White Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="When the upgraded character defends -> Do 2 damage to the attacker. Scrap this after the battle. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="48a08fa3-ef70-46ed-a69a-2f6db58589d4" name="Starscream's Saber" size="Small">
+        <property name="Card Number" value="X:40" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="ATK" value="2" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Put on Starscream only. When the upgraded attacks a Melee character -> It has Pierce 3. " />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+
 </cards>
 </set>
+
