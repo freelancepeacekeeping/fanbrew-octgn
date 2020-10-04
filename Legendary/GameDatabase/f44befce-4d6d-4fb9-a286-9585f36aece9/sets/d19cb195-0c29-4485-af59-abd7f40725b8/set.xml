@@ -131,7 +131,7 @@
         <property name="Card Number" value="X:8" />
         <property name="Type" value="Upgrade - Weapon" />
         <property name="Orange Pips" value="1" />
-        <property name="Faction" value="" />
+        <property name="Faction" value="Autobot" />
         <property name="Text" value="Put only on Rack'N'Ruin. While the upgraded character is in Bot 1 mode -> It has Bold 1. When the upgraded character flips to Bot 2 mode -> Do 1 damage to an enemy in bot or body mode. " />
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
