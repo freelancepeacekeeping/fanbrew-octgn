@@ -108,7 +108,7 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Stratagem" />
     </card>
-    <card id="274f35a7-ad35-46d4-a9ca-c4f1ad456f40 " name="The Warrior Returns Alive" size="Small">
+    <card id="274f35a7-ad35-46d4-a9ca-c4f1ad456f40" name="The Warrior Returns Alive" size="Small">
         <property name="Card Number" value="X:S07" />
         <property name="Type" value="Stratagem" />
         <property name="Stars" value="1" />
