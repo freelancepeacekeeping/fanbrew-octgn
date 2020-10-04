@@ -141,7 +141,7 @@
         <property name="Type" value="Upgrade - Utility" />
         <property name="Orange Pips" value="1" />
         <property name="Blue Pips" value="1" />
-        <property name="Star" value="1" />
+        <property name="Stars" value="1" />
         <property name="Faction" value="" />
         <property name="Text" value="Once during your turn you may scrap a card from your hand to move this to another one of your characters. When this is attached to a character, it gains an effect based on its faction: Autobot: Repair 2; Decepticon: +2 ATK until the end of your turn; Mercenary: Do 2 damage to an enemy Autobot or Decepticon. " />
         <property name="Rarity" value="Rare" />
