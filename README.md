@@ -12,3 +12,5 @@ This provides:
 * Legendary Wave X: https://www.facebook.com/groups/290966152231660/user/100028177891994
 
 Each card number begins with X:, allowing you to filter for Cards that don't contain "X:" to ignore custom cards. 
+
+Cards may change, however the card id will not be changed so built decks should generally stay the same. Note that FortressMaximus knows nothing about these cards, and that if some of these end up in the base OCTN mod for Transformers TCG, there is no reason to expect it to support the same ids. i.e. Any decks built may not work if the custom cards are added to the default OCTGN.
