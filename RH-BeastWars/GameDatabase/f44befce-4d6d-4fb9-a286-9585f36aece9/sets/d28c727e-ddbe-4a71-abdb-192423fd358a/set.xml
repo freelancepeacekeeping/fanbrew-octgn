@@ -1,0 +1,273 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="RH/Beast Wars - Wave 1" id="d28c727e-ddbe-4a71-abdb-192423fd358a" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+<cards>
+    <card id="7813df57-5f45-4dd5-8804-bd333ba55317" name="A Change Of Heart" size="Small">
+        <property name="Card Number" value="X:S01" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="Blackarachnia gains the Maximal affiliation. When Blackarachnia causes an opponent to scrap a card from their hand -> Your opponent deals 1 damage to a character they control. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="163b832b-800b-4ac7-b441-2563cb6b8af0" name="Primal Protectors" size="Small">
+        <property name="Card Number" value="X:S02" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="2" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="If your starting team is only Maximals -> Your Maximals gain Bold 1 and TOugh 1. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="767fd8bd-5d2d-499f-aabe-97b9e542ada6" name="Possessed By Starscream" size="Small">
+        <property name="Card Number" value="X:S03" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="When Predacon Waspinator enters the KO area -> Flip this card and place Spirit of Starscream into play. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="84f276fe-8322-42a2-95d9-48009b9fdf89" name="Explosive Ambush" size="Small">
+        <property name="Card Number" value="X:S01" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="When you have Maximal Rattrap on the battlefield -> Deal 1 damage to an opponent whenever you play a Secret Action. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="5ab5a2a3-a136-4c6c-ad98-baad17fd7190" name="Wreck-Gar - Dare To Be Stupid" size="Large">
+        <property name="Card Number" value="X:T01" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Leader, Motorcycle" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="When you flip to this mode -> You may scrap an upgrade from your hand to play an upgrade from your discard pile onto this. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Wreck-Gar - Dare To Be Stupid" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="If you reshuffle your discard pile while this is in your KO area -> Return this to play from the KO area and repair 1 damage from it. " />
+            <property name="Traits" value="Leader, Melee" />
+        </alternate>
+    </card>
+    <card id="5f49b819-4373-4552-b777-dcb4f7b998f4" name="Maximal Cheetor - Fast And Furious" size="Large">
+        <property name="Card Number" value="X:T02" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Beast, Melee" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="When one of your other Maximals flips -> You may flip this to bot mode. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Maximal Cheetor - Fast And Furious" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When you flip to this mode -> Reveal the top two cards of your deck. Scrap one and place the other back on top of your deck. " />
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="7d82e9b4-3eb3-40cb-99f1-60d95c6cd2a8" name="Predacon Waspinator - Not The Brightest" size="Large">
+        <property name="Card Number" value="X:T05" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="8" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Beast" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="Pierce 4. Revenge -> Each of your other characters gain +1 ATK and +1 DEF until the end of turn. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Predacon Waspinator - Not The Brightest" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When this takes non-combat damage -> You may draw a card, then you may place a card from your hand on top of your deck. " />
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="7e0e3877-412c-4eed-b798-e042dff475aa" name="Predacon Terrorsaur - Cunning Flyer" size="Large">
+        <property name="Card Number" value="X:T04" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Beast" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="When one of your characters is dealth non-combat damage -> You may repair 1 damage from this character. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Predacon Terrorsaur - Cunning Flyer" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When this attacks and you flip at least [O][W] -> You may deal 1 damage to a character. " />
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="231ba9ba-eb40-4cdc-b07d-e03a52408d9d" name="Predacon Skorponok - Loyal Soldier" size="Large">
+        <property name="Card Number" value="X:T03" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="12" />
+        <property name="DEF" value="3" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Beast, Melee" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="Tough 1. When you flip to this mode -> You may scrap an Armor from an enemy. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Predacon Skorponok - Loyal Soldier" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When this takes non-combat damage -> You may scrap a Weapon from an enemy. " />
+            <property name="Traits" value="Ranged, Melee" />
+        </alternate>
+    </card>
+    <card id="74514c44-8fa9-479e-93de-84a5edf268b6" name="Maximal Rhinox - Research and Development" size="Large">
+        <property name="Card Number" value="X:T04" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="3" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Beast, Specialist" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="Brave. When this does enough damage to KO an enemy -> Deal 1 damage to each enemy. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Maximal Rhinox - Research and Development" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When an Action revealed from yur deck would be scrapped -> You may scrap an Upgrade from your hand to add the Action to your hand instead. " />
+            <property name="Traits" value="Specialist" />
+        </alternate>
+    </card>
+    <card id="87723e77-0fee-4c5d-8781-d83e88d5d282" name="Dinobot - Predacon Defector" size="Large">
+        <property name="Card Number" value="X:T01" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="12" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Beast, Melee" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="When this is attacking an untapped enemy -> This gains Pierce 4 until the end of turn. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Dinobot - Predacon Defector" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="6" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="This has +1 ATK for each Maximal in your KO area. When one of your other characters is put into the KO area -> Repair 2 damage from this. " />
+            <property name="Traits" value="Melee" />
+        </alternate>
+    </card>
+    <card id="afde7dbb-5288-419c-83cd-2faa86bd90d7" name="Maximal Rattrap - Demolitions And Espionage" size="Large">
+        <property name="Card Number" value="X:T03" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Beast, Specialist" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Scrap a Secret Action from your hand to scrap a Secret Action from play. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="NN" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When one of your Secret actions is revealed -> Deal 1 damage to an enemy. " />
+            <property name="Traits" value="Specialist, Ranged" />
+        </alternate>
+    </card>
+    <card id="b3e1be47-d459-4653-b1aa-b9b636d7daa0" name="Blackarachnia - Webs In Shadows" size="Large">
+        <property name="Card Number" value="X:T01" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Beast" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="When this defends and you flip at least [O][B] -> You may scrap a random card from an opponent's hand. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Blackarachnia - Webs In Shadows" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="If you have more cards in hand than your opponent, your characters gain Bold 1. " />
+            <property name="Traits" value="Melee" />
+        </alternate>
+    </card>
+    <card id="c68508f0-b903-497b-a9f2-508963e67501" name="Megatron - Ruthless Tyrant" size="Large">
+        <property name="Card Number" value="X:T02" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="6" />
+        <property name="HP" value="14" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="10" />
+        <property name="Traits" value="Leader, Beast" />
+        <property name="Faction" value="Predacon" />
+        <property name="Text" value="When this is attacking an enemy that has fewer stars than him -> This has Bold 2. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Megatron - Ruthless Tyrant" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When you flip to this mode -> You may deal 1 damage to one of your other characters to give it +2 ATK until the end of turn. " />
+            <property name="Traits" value="Leader" />
+        </alternate>
+    </card>
+    <card id="d2b10ad0-e78a-4403-b8ab-c890b3287f4a" name="Spirit Of Starscream" size="Large">
+        <property name="Card Number" value="X:" />
+        <property name="Type" value="Character - Bot Mode" />
+        <property name="ATK" value="1" />
+        <property name="HP" value="2" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="" />
+        <property name="Traits" value="Ranged" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="This can't take non-combat damage. " />
+        <property name="Rarity" value="" />
+        <property name="Draft Type" value="Large Character" />
+    </card>
+    <card id="f66e8d58-bbf7-499f-b843-d451c5f0edb8" name="Optimus Primal - Maximal Hero" size="Large">
+        <property name="Card Number" value="X:T05" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="10" />
+        <property name="Traits" value="Leader, Beast" />
+        <property name="Faction" value="Maximal" />
+        <property name="Text" value="Each of your other Beasts have Focus 1. When one of your Maximals attacks and you flip at least [O][U] -> Repair 1 damage from the attacker. " />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Optimus Primal - Maximal Hero" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="6" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="Focus 1. This gains Bold 1 for each other Maximal you control. This gains Tough 1 for each Maximal in your KO area. " />
+            <property name="Traits" value="Leader" />
+        </alternate>
+    </card>
+</cards>
+</set>

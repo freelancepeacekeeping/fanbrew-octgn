@@ -1,4 +1,4 @@
-VERSION='1.1'
+VERSION='1.3'
 ZIP_FILE="OCTGN-Fanbrew-${VERSION}.zip"
 
 rm -f ${ZIP_FILE}
