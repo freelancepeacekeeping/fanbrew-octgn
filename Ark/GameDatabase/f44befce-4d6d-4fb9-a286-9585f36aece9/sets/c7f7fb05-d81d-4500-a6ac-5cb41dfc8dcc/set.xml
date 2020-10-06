@@ -55,6 +55,13 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="c3469642-b364-4d5d-b2dc-b918828a205f" name="Death To The Weak" size="Small">
+        <property name="Card Number" value="X:15" />
+        <property name="Type" value="Action" />
+        <property name="Text" value="You may KO one of your characters that has 5 Stars or fewer. If you do, do 3 damage to an enemy and repair 3 damage from one of your other characters. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="7fbec71a-7fa2-40d2-a041-d15efd4213de" name="H-M Laser Cannon" size="Small">
         <property name="Card Number" value="X:20" />
         <property name="Type" value="Upgrade - Weapon" />
@@ -112,6 +119,25 @@
             <property name="DEF" value="1" />
             <property name="Text" value="Each of your Autobots has Pierce 2. When you flip to this mode -> Look at your opponent's hand." />
             <property name="Traits" value="Leader, Ranged" />
+        </alternate>
+    </card>
+    <card id="bf262f5c-9ffd-4a77-ae9f-0218c57209f8" name="Megatron - Autobot Bane" size="Large">
+        <property name="Card Number" value="X:T16" />
+        <property name="Type" value="Character - Bot Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Leader, Weaponizer, Ranged" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <property name="Text" value="When this is KO'd by the effect of Peace Through Tyranny -> Do 2 damage to an enemy Autobot. "/>
+        <alternate name="P38 Fusion Blaster" type="bot" size="Large">
+            <property name="Type" value="Upgrade - Weapon" />
+            <property name="ATK" value="3" />
+            <property name="Text" value="Bold 1. If another Weapon would be put into the same Upgrade slot as this -> Scrap that Weapon instead. If this would leave the battlefield while upgrading a Leader that has 10 Stars or more -> Instead deploy this to the battlefield in bot mode with 6 damage counters on him. "/>
+            <property name="Traits" value="Weaponizer" />
         </alternate>
     </card>
     <card id="1025aca2-2e10-46fd-8a59-8ba010261a42" name="Specialist Countdown - Transport - Space Explorer" size="Small">
