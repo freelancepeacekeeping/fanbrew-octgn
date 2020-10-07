@@ -188,7 +188,7 @@
         <property name="Text" value="Stealth. When you flip to this mode -> Scrap a Secret Action from your hand to scrap a Secret Action from play. " />
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Large Character" />
-        <alternate name="NN" type="bot" size="Large">
+        <alternate name="Maximal Rattrap - Demolitions And Espionage" type="bot" size="Large">
             <property name="Type" value="Character - Bot Mode" />
             <property name="ATK" value="3" />
             <property name="DEF" value="2" />
