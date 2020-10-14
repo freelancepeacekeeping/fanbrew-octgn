@@ -224,6 +224,26 @@
         <property name="Draft Type" value="Battle Card" />
     </card>
 
+    <card id="c9283cf7-343e-4156-ba33-200768b63c46" name="Autobot Blades - Reluctant Medic" size="Large">
+        <property name="Card Number" value="X:T01" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Helicopter, Specialist" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="When you flip to this mode -> You may attach an Armor from your scrap pile to one of your other characters. If you do, scrap a card from your hand. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Autobot Blades - Reluctant Medic" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When one of your characters is upgraded with an Armor or a Utility -> Repair 1 damage from them. "/>
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
     <card id="6f9ebc8a-f182-426a-93ed-aaa497cde422" name="Bumblebee - Energon Scavenger" size="Large">
         <property name="Card Number" value="X:T05" />
         <property name="Type" value="Character - Alt Mode" />
@@ -302,6 +322,26 @@
             <property name="DEF" value="0" />
             <property name="Text" value="When you flip to this mode -> If Cloudraker is on the battlefield, flip him to his other mode. This has +1 ATK for each Secret Action your opponent has in play. " />
             <property name="Traits" value="Clone, Ranged" />
+        </alternate>
+    </card>
+    <card id="c8fb872e-92b4-431d-b40f-21d58d6edc72" name="Autobot Skids - Forgettable Theoretician" size="Large">
+        <property name="Card Number" value="X:T32" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Car, Melee" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Draw a card for each CT on the battlefield. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Autobot Skids - Forgettable Theoretician" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="2" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="Stealth. This character has +1 ATK for each RT on the battlefield and in your opponent's KO area. "/>
+            <property name="Traits" value="Ranged" />
         </alternate>
     </card>
     <card id="8c5b5e66-ae59-43b7-9fad-7054733bb9d3" name="Starscream - Noble Swordsman" size="Large">
