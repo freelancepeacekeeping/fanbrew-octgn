@@ -81,6 +81,26 @@
         <property name="Draft Type" value="Battle Card" />
     </card>
 
+    <card id="cc7debff-66fc-4ede-baf2-3a57e603554e" name="Beastbox - Savage Interrogator" size="Small">
+        <property name="Card Number" value="X:T01" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="0" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Mini-Cassette" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Reveal the top card of your opponent's deck. If it's an Action, you may play it. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Beastbox - Savage Interrogator" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When this attacks an enemy Autobot -> This gets +2 ATK until end of turn. "/>
+            <property name="Traits" value="Mini-Cassette, Ranged" />
+        </alternate>
+    </card>
     <card id="c8fb872e-92b4-431d-b40f-21d58d6edc72" name="Bumblebee - Optimistic Brawler" size="Large">
         <property name="Card Number" value="X:T05" />
         <property name="Type" value="Character - Alt Mode" />
@@ -158,6 +178,66 @@
             <property name="ATK" value="3" />
             <property name="Text" value="Bold 1. If another Weapon would be put into the same Upgrade slot as this -> Scrap that Weapon instead. If this would leave the battlefield while upgrading a Leader that has 10 Stars or more -> Instead deploy this to the battlefield in bot mode with 6 damage counters on him. "/>
             <property name="Traits" value="Weaponizer" />
+        </alternate>
+    </card>
+    <card id="d3239b15-5c56-4393-9393-8ef7e4e8dfa2" name="Ratbat - Calculating Scout" size="Small">
+        <property name="Card Number" value="X:T18" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="0" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Mini-Cassette" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Stealth. [TAP] Scrap a [W] card from your hand -> Each player chooses two cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="Once per turn, if your opponent would draw a card, except for the first card they draw at the start of their turn -> You draw a card instead. "/>
+            <property name="Traits" value="Mini-Cassette, Specialist" />
+        </alternate>
+    </card>
+    <card id="da957d60-216f-413e-96fe-48c141a69e72" name="Rewind - Data Collector" size="Small">
+        <property name="Card Number" value="X:T21" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="0" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Mini-Cassette" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Return a card at random from your scrap pile to hand. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="After you flip battle cards for this character's attack and before defense flips -> You may play a [B] Utility you flipped. "/>
+            <property name="Traits" value="Mini-Cassette, Specialist" />
+        </alternate>
+    </card>
+    <card id="db382c02-4be7-4c65-ac53-a8d0f55a6394" name="Rumble - Demolition Expert" size="Small">
+        <property name="Card Number" value="X:T23" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="0" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Mini-Cassette" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Stealth. When you flip to this mode -> Your opponent chooses one of their Upgrades and scraps it. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="3" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When this attacks, you may scrap a [U] card from your hand -> If you do, this gets +3 ATK until end of turn. "/>
+            <property name="Traits" value="Mini-Cassette, Melee" />
         </alternate>
     </card>
     <card id="1025aca2-2e10-46fd-8a59-8ba010261a42" name="Specialist Countdown - Transport - Space Explorer" size="Small">
