@@ -55,6 +55,14 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="f4eaeaca-7d38-4c74-a838-312f97905b3e" name="Combaticon Enigma" size="Small">
+        <property name="Card Number" value="X:10" />
+        <property name="Type" value="Action" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="If you have Bruticus on the battlefield -> He gets Pierce 2 until end of turn. If you have 5 Combaticons in bot mode on the battlefield and/or in your KO area -> Combine them into Bruticus, Unstoppable Giant. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="c3469642-b364-4d5d-b2dc-b918828a205f" name="Death To The Weak" size="Small">
         <property name="Card Number" value="X:15" />
         <property name="Type" value="Action" />
@@ -72,11 +80,29 @@
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="f8098bbf-065f-4d12-9b3f-6b83f11dafaa" name="Spoils Of War" size="Small">
+        <property name="Card Number" value="X:27" />
+        <property name="Type" value="Action" />
+        <property name="Black Pips" value="1" />
+        <property name="Text" value="Choose up to 5 of your characters. If they share a treat, repair 1 damage from each of them. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="3801c098-f24a-475d-949d-f694daa6b42d" name="Stasis Field" size="Small">
         <property name="Card Number" value="X:29" />
         <property name="Type" value="Secret Action" />
         <property name="Blue Pips" value="1" />
         <property name="Text" value="Reveal -> When one of your characters defends against an enemy in bot or body mode.  When Revealed -> The attacking player flips that attacker to alt mode. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="f9f0ad3b-edca-4ae7-86c8-014d6caf8773" name="Unfriendly Fire" size="Small">
+        <property name="Card Number" value="X:37" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="Black Pips" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Text" value="Put on Combaticons only. When the upgraded character defends and your opponent flips battle icons of at least 3 different colors -> Do 2 damage to an enemy. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
