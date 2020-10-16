@@ -136,6 +136,46 @@
             <property name="Traits" value="Mini-Cassette, Ranged" />
         </alternate>
     </card>
+    <card id="c8047cc4-4469-4566-9912-b7649cd4035c" name="Blast Off - Space Warrior" size="Small">
+        <property name="Card Number" value="X:T02" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="8" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Combaticon, Spaceship, Specialist" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="When this attacks a Tank or Truck -> This gets +2 ATK until end of turn. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Blast Off - Space Warrior" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="2" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When you flip to this mode -> Do 2 damage to a Ranged enemy. "/>
+            <property name="Traits" value="Combaticon, Specialist"/>
+        </alternate>
+    </card>
+    <card id="4e60df20-a1a6-4fbe-b56b-d84da99dbb45" name="Brawl - Ground Assault" size="Small">
+        <property name="Card Number" value="X:T04" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="7" />
+        <property name="DEF" value="3" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Combaticon, Tank, Ranged" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="Brave. Bold 1"/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Brawl - Ground Assault" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="Enemies can't use Brave or Stealth. When this attacks an enemy that has an Armor -> Do 1 damage to that enemy. "/>
+            <property name="Traits" value="Combaticon, Melee"/>
+        </alternate>
+    </card>
     <card id="c8fb872e-92b4-431d-b40f-21d58d6edc72" name="Bumblebee - Optimistic Brawler" size="Large">
         <property name="Card Number" value="X:T05" />
         <property name="Type" value="Character - Alt Mode" />
@@ -215,6 +255,26 @@
             <property name="Traits" value="Weaponizer" />
         </alternate>
     </card>
+    <card id="bc440000-914c-42cd-b0ad-b9b4a702d831" name="Onslaught - Combaticon Leader" size="Small">
+        <property name="Card Number" value="X:T17" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Leader, Combaticon, Truck" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="Each of your other Combaticons has Bold 1 and Tough 1. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Onslaught - Combaticon Leader" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When you flip to this mode -> Draw a card. When one of your Combaticon attacks -> Plan 1. "/>
+            <property name="Traits" value="Leader, Combaticon, Ranged"/>
+        </alternate>
+    </card>
     <card id="d3239b15-5c56-4393-9393-8ef7e4e8dfa2" name="Ratbat - Calculating Scout" size="Small">
         <property name="Card Number" value="X:T18" />
         <property name="Type" value="Character - Alt Mode" />
@@ -247,7 +307,7 @@
         <property name="Text" value="Stealth. When you flip to this mode -> Return a card at random from your scrap pile to hand. "/>
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Small Character" />
-        <alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+        <alternate name="Rewind - Data Collector" type="bot" size="Small">
             <property name="Type" value="Character - Bot Mode" />
             <property name="ATK" value="3" />
             <property name="DEF" value="1" />
@@ -333,6 +393,46 @@
             <property name="DEF" value="2" />
             <property name="Text" value="[TAP] Scrap a card from your hand -> Draw 2 cards, then put a card from your hand on top of your deck. If you have a character in combiner mode, instead draw 3 cards, then put a card from your hand on top of your deck." />
             <property name="Traits" value="Specialist" />
+        </alternate>
+    </card>
+    <card id="285555ba-34e3-446c-9e11-0137d0964a13" name="Swindle - Arms Dealer" size="Small">
+        <property name="Card Number" value="X:T33" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="8" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="5" />
+        <property name="Traits" value="Combaticon, Truck, Specialist" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="When you flip to this mode -> Return an Upgrade from your scrap pile to hand. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Swindle - Arms Dealer" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="2" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When this attacks an Autobot -> You may play a Weapon. When this defends against a Decepticon -> You may play an Armor. "/>
+            <property name="Traits" value="Combaticon, Specialist"/>
+        </alternate>
+    </card>
+    <card id="ffbf768c-e216-4717-8a40-590bcd02d603" name="Vortex - Interrogator" size="Small">
+        <property name="Card Number" value="X:T35" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="7" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="4" />
+        <property name="Traits" value="Combaticon, Helicopter, Ranged" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="Pierce 2" />
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Small Character" />
+        <alternate name="Vortex - Interrogator" type="bot" size="Small">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="1" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When you flip to this mode -> Your opponent scraps a card from their hand. "/>
+            <property name="Traits" value="Combaticon, Ranged"/>
         </alternate>
     </card>
     <card id="00949c99-24be-47c5-be55-aa1c63346247" name="Bruticus - Unstoppable Giant" size="Extra Large">
