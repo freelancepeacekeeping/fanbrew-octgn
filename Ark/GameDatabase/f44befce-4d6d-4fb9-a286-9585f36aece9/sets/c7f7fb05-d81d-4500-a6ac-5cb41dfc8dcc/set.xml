@@ -18,6 +18,15 @@
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Stratagem" />
     </card>
+    <card id="fc4d3c5f-a2d6-4da9-ad10-74bb5850a93f" name="Starscream's Brigade" size="Small">
+        <property name="Card Number" value="X:S18" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="If your starting team has Onslaught and at least one other Combaticon -> Your Starscream, Scheming Second-in-Command has '[TAP], Discard a [K] Action from your hand -> Choose a Combaticon you own from outside the game and deploy it to the battlefield with 2 damage on it. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
     <card id="f5e6f2c0-f671-4422-bdcd-701a1212d343" name="300-TT Crusher Claw" size="Small">
         <property name="Card Number" value="X:1" />
         <property name="Type" value="Upgrade - Utility" />
