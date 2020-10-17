@@ -518,7 +518,7 @@
         <property name="Text" value="The effects on this card change depending on how many times you've flipped this character this turn. 0: Bold 1; 1: Bold 2; 2: Bold 3; 3+: Bold 4. " />
         <property name="Rarity" value="Super-Rare" />
         <property name="Draft Type" value="Large Character" />
-        <alternate name="Rack'N'Ruin (Rack)" type="bot" size="Large">
+        <alternate name="Rack'N'Ruin (Ruin)" type="bot" size="Large">
             <property name="Type" value="Character - Bot 2 Mode" />
             <property name="ATK" value="6" />
             <property name="DEF" value="2" />
