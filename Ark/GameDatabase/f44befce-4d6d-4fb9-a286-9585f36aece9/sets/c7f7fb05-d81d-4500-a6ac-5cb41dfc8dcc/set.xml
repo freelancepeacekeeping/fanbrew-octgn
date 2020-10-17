@@ -9,6 +9,15 @@
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Stratagem" />
     </card>
+    <card id="c68e05bb-eab3-426f-b6cf-27e8aad7323e" name="Predacon Fortitude" size="Small">
+        <property name="Card Number" value="X:S15" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="For each card under your Sky-Byte, Harbinger of Doom -> He has +1 HP and +1 DEF up to +3 HP and +3 DEF. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
     <card id="d0d0fcc7-6e93-42b5-a002-3deec01232dc" name="Scout The Area" size="Small">
         <property name="Card Number" value="X:S17" />
         <property name="Type" value="Stratagem" />
@@ -102,6 +111,16 @@
         <property name="Type" value="Secret Action" />
         <property name="Blue Pips" value="1" />
         <property name="Text" value="Reveal -> When one of your characters defends against an enemy in bot or body mode.  When Revealed -> The attacking player flips that attacker to alt mode. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="5a1094df-5057-4e52-a6af-c308e042e663" name="Tsunami Blaster" size="Small">
+        <property name="Card Number" value="X:35" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Orange Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Text" value="Can't be put on Autobots. The upgraded character has Bold 1 for each card under it, up to Bold 4. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
@@ -353,6 +372,26 @@
             <property name="DEF" value="2" />
             <property name="Text" value="When you flip to this mode -> One of your Sweeps gets Pierce 2 until end of turn. "/>
             <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="e2a3039c-a6c0-49f2-8017-663ca517bffa" name="Sky-Byte - Harbinger of Doom" size="Large">
+        <property name="Card Number" value="X:T29" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="7" />
+        <property name="HP" value="15" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="11" />
+        <property name="Traits" value="Leader, Beast, Melee" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="When this attacks -> Put the top 3 cards of your deck face down under this. "/>
+        <property name="Rarity" value="Super-Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Sky-Byte - Harbinger of Doom" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="6" />
+            <property name="DEF" value="0" />
+            <property name="Text" value="When you flip to this mode -> Play a card from under this. Scrap that card at the end of turn. "/>
+            <property name="Traits" value="Leader, Ranged" />
         </alternate>
     </card>
     <card id="f19f0638-cab8-4c5d-9684-45f6f9ba7464" name="Sweep - Scourge's Armada" size="Large">
