@@ -118,6 +118,17 @@
         <property name="Draft Type" value="Stratagem" />
     </card>
 
+    <card id="ad22dbfb-ed0a-4a33-a7c9-2f4229ea60c1" name="Apex Armor" size="Small">
+        <property name="Card Number" value="X:4" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Orange Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="DEF" value="2" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Put only on a character with Prime in its name. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="2c09aa04-30ab-4868-8d36-ac80e1083d43" name="Coming Aboard" size="Small">
         <property name="Card Number" value="X:5" />
         <property name="Type" value="Action" />
@@ -166,6 +177,16 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="3c70180e-f5ff-408d-ae1c-4053216fa94e" name="Intimidation" size="Small">
+        <property name="Card Number" value="X:21" />
+        <property name="Type" value="Action" />
+        <property name="White Pips" value="1" />
+        <property name="Black Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Choose one of your characters with 18 Stars or more. That character gains +3 ATK and Pierce 3 until end of turn when attacking a character with less Stars than it. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="4e8c4347-ce2e-4fe7-bb2f-a372892b8dac" name="Upgrade's Upgrade" size="Small">
         <property name="Card Number" value="X:22" />
         <property name="Type" value="Upgrade - Utility" />
@@ -173,6 +194,18 @@
         <property name="Faction" value="" />
         <property name="Text" value="While the upgraded character has a Weapon equipped -> It has +1 ATK. While the upgraded character has an Armor equipped -> It has +1 DEF. " />
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="77d989a0-605f-4dcd-b5b9-e129651e4267" name="Unorthodox Upgrades" size="Small">
+        <property name="Card Number" value="X:46" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="White Pips" value="1" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="-2" />
+        <property name="DEF" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="The upgraded character has -2 HP. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="5e24adeb-7eba-4146-a756-cdd7214ae204" name="Wreckers United" size="Small">
@@ -221,6 +254,15 @@
         <property name="Faction" value="Decepticon" />
         <property name="Text" value="Put on Starscream only. When the upgraded attacks a Melee character -> It has Pierce 3. " />
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="5c404965-72ea-41db-9ed6-f859ce441c9e" name="Time Off" size="Small">
+        <property name="Card Number" value="X:42" />
+        <property name="Type" value="Action" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Repair 1 damage from one of your characters. If that character had taken 10 or more damage, you may repair 1 more from it and draw a card. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
 
