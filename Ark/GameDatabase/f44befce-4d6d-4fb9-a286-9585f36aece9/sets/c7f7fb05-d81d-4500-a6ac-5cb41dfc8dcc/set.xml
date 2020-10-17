@@ -346,7 +346,7 @@
         <property name="Text" value="Stealth. When you flip to this mode -> Your opponent chooses one of their Upgrades and scraps it. "/>
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Small Character" />
-        <alternate name="Ratbat - Calculating Scout" type="bot" size="Small">
+        <alternate name="Rumble - Demolition Expert" type="bot" size="Small">
             <property name="Type" value="Character - Bot Mode" />
             <property name="ATK" value="3" />
             <property name="DEF" value="1" />
