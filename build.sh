@@ -1,8 +1,8 @@
-VERSION='1.3'
+VERSION='1.4.1'
 ZIP_FILE="OCTGN-Fanbrew-${VERSION}.zip"
 
 rm -f ${ZIP_FILE}
-for i in */
+for i in [A-Z]*/
 do
     echo "Adding ${i}"
     cd $i
