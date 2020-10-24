@@ -45,6 +45,14 @@
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="62168313-4da6-472d-b5f2-147bb5845ea0" name="Alliance" size="Small">
+        <property name="Card Number" value="X:3" />
+        <property name="Type" value="Action" />
+        <property name="White Pips" value="1" />
+        <property name="Text" value="Play only if you had an Autobot and a Decepticon on your starting team. Until end of turn, each of your characters' base ATK is 6. At end of turn -> Do 2 damage to each of your characters that attacked this turn. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="e33851a2-936d-4098-a279-b0d171c4f309" name="Assault Formation" size="Small">
         <property name="Card Number" value="X:5" />
         <property name="Type" value="Action" />
@@ -88,14 +96,16 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
-    <card id="7fbec71a-7fa2-40d2-a041-d15efd4213de" name="H-M Laser Cannon" size="Small">
-        <property name="Card Number" value="X:20" />
+    <card id="e2016cde-ff4a-4e99-ab8b-915b92fb4222" name="Grimlock's Sword" size="Small">
+        <property name="Card Number" value="X:19" />
         <property name="Type" value="Upgrade - Weapon" />
-        <property name="Blue Pips" value="1" />
-        <property name="ATK" value="1" />
+        <property name="Orange Pips" value="1" />
+        <property name="Black Pips" value="1" />
+        <property name="ATK" value="3" />
+        <property name="DEF" value="1" />
         <property name="Faction" value="Autobot" />
-        <property name="Text" value="Can't be put on Decepticons. When you put this on a Guardian or a character in combiner mode -> Do 2 damage to each enemy. "/>
-        <property name="Rarity" value="Uncommon" />
+        <property name="Text" value="Put on Dinobots only. Bold 3. Pierce 3. "/>
+        <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="f8098bbf-065f-4d12-9b3f-6b83f11dafaa" name="Spoils Of War" size="Small">
@@ -235,6 +245,26 @@
             <property name="Traits" value="Ranged" />
         </alternate>
     </card>
+    <card id="da3202b3-ea24-4ab1-9bfa-e069448860a8" name="Grimlock - Dinobot King" size="Large">
+        <property name="Card Number" value="X:T11" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="5" />
+        <property name="HP" value="18" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="14" />
+        <property name="Traits" value="Leader, Dinobot, Melee" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="When this attacks and you flip at least [O][B][U] -> DO 1 damage to EACH character, then do 1 damage to EACH Decepticon. "/>
+        <property name="Rarity" value="Super-Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Grimlock - Dinobot King" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="7" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="Bold 3"/>
+            <property name="Traits" value="Leader, Dinobot, Melee" />
+        </alternate>
+    </card>
     <card id="d06a91cf-b67c-46ae-9fbe-e19145c8bb8a" name="Jazz - Outta Sight, Dynamite Lieutenant" size="Large">
         <property name="Card Number" value="X:T14" />
         <property name="Type" value="Character - Alt Mode" />
@@ -372,6 +402,26 @@
             <property name="DEF" value="2" />
             <property name="Text" value="When you flip to this mode -> One of your Sweeps gets Pierce 2 until end of turn. "/>
             <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="87562200-f40e-414f-bdfe-401a3065b097" name="Seaspray - Valiant Vessel" size="Large">
+        <property name="Card Number" value="X:T26" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Boat, Specialist" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="This has Stealth while untapped. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Seaspray - Valiant Vessel" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When this battles an enemy in bot mode -> This gets +1 ATK and +1 DEF until end of battle. "/>
+            <property name="Traits" value="Specialist" />
         </alternate>
     </card>
     <card id="e2a3039c-a6c0-49f2-8017-663ca517bffa" name="Sky-Byte - Harbinger of Doom" size="Large">
