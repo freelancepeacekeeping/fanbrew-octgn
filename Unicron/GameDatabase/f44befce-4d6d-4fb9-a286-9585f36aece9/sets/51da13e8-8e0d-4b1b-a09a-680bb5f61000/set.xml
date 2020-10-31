@@ -4,6 +4,7 @@
         <property name="Card Number" value="X:" />
 		<property name="Type" value="Upgrade - Utility"/>
 		<property name="Black Pips" value="1"/>
+		<property name="Orange Pips" value="1"/>
 		<property name="Text" value="Put on Unicronians only. When one of your Unicronians battles -> Plan 1. (You may put 1 card from your hand on top of your deck.)."/>
 		<property name="Rarity" value="Rare"/>
 	</card>
@@ -84,10 +85,10 @@
 	</card>
 	
 	<card id="0fc38719-f2ad-4cbc-9cc8-124a4590e707" name="Unicron - Chaos Bringer" size="Extra Large">
-        <property name="Card Number" value="X:" />
+        <property name="Card Number" value="X:T01" />
 		<property name="Type" value="Character - Alt Mode"/>
 		<property name="ATK" value="0"/>
-		<property name="DEF" value="0"/>
+		<property name="DEF" value="1"/>
 		<property name="HP" value="35"/>
 		<property name="Stars" value="25"/>
 		<property name="Faction" value="Unicronian"/>
@@ -106,7 +107,7 @@
 	</card>
 	
 	<card id="44e62566-21d3-4ce9-9643-bf5920da29f9" name="Cyclonus - Wild Soldier" size="Large">
-        <property name="Card Number" value="X:" />
+        <property name="Card Number" value="X:T04" />
 		<property name="Type" value="Character - Alt Mode"/>
 		<property name="ATK" value="4"/>
 		<property name="DEF" value="2"/>
@@ -128,7 +129,7 @@
 	</card>
 	
 	<card id="cdb0e0a8-34e9-411b-ad84-de94a8fced58" name="Galvatron - Decepticon Warlord" size="Large">
-        <property name="Card Number" value="X:" />
+        <property name="Card Number" value="X:T05" />
 		<property name="Type" value="Character - Alt Mode"/>
 		<property name="ATK" value="5"/>
 		<property name="DEF" value="3"/>
@@ -136,7 +137,7 @@
 		<property name="Stars" value="15"/>
 		<property name="Faction" value="Decepticon"/>
 		<property name="Text" value="This can untapped enemies as though they were tapped"/>
-		<property name="Traits" value="Unicronian, Tank, Ranged"/>
+		<property name="Traits" value="Leader, Unicronian, Tank, Ranged"/>
 		<property name="Rarity" value="Super Rare"/>
 			
 		<alternate name="Galvatron - Decepticon Warlord" size="Large" type="bot">
@@ -150,7 +151,7 @@
 	</card>
 	
 	<card id="a85a69fb-2746-43a5-a7dd-3f3f71f83011" name="Scourge - Decepticon Tracker" size="Large">
-        <property name="Card Number" value="X:" />
+        <property name="Card Number" value="X:T02" />
 		<property name="Type" value="Character - Alt Mode"/>
 		<property name="ATK" value="4"/>
 		<property name="DEF" value="2"/>
@@ -166,20 +167,20 @@
 			<property name="ATK" value="4"/>
 			<property name="DEF" value="2"/>
 			<property name="HP" value="12"/>
-			<property name="Text" value="Brave (Enemies attack this character is able.) When this defends and you flip at least 3 different battle icons -> Choose one of your other characters. Damage from this attack is done to that character instead."/>
+			<property name="Text" value="Brave. When this defends and you flip at least 3 different colors -> Choose one of your other characters. Damage from this attack is done to that character instead."/>
 			<property name="Traits" value="Unicronian, Melee"/>
 		</alternate>
 	</card>
 	
 	<card id="ece7b7d8-7d3a-40d5-a128-b602447bbc82" name="Sweeps - Minion" size="Small">
-        <property name="Card Number" value="X:" />
+        <property name="Card Number" value="X:T03" />
 		<property name="Type" value="Character - Alt Mode"/>
 		<property name="ATK" value="3"/>
 		<property name="DEF" value="2"/>
 		<property name="HP" value="4"/>
 		<property name="Stars" value="0"/>
 		<property name="Faction" value="Decepticon"/>
-		<property name="Text" value="Brave (Enemies attack this character if able.) Revenge -> Put 1 Chaos Counter on Unicron, Chaos Bringer. (Use a character's Revenge abilities when it's KO'd.)."/>
+		<property name="Text" value="Brave. Horde 2. Revenge -> Put 1 Chaos Counter on Unicron, Chaos Bringer."/>
 		<property name="Traits" value="Unicronian, Ranged"/>
 		<property name="Rarity" value="Super Rare"/>
 	</card>
