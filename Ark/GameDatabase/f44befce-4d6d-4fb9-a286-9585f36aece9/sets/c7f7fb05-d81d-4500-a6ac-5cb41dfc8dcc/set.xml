@@ -1,12 +1,129 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Ark - Wave 1" id="c7f7fb05-d81d-4500-a6ac-5cb41dfc8dcc" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
 <cards>
+    <card id="92057219-e9c2-44e0-9ce4-1b4b55698ad7" name="Advanced Technology" size="Small">
+        <property name="Card Number" value="X:S01" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Decepticon Shockwave, Cybertron Commander has +4 HP. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="49a70116-5470-4879-ae68-c773cd12f8b7" name="Arise, Rodimus Prime" size="Small">
+        <property name="Card Number" value="X:S02" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Before the game begins -> You may reveal a Matrix of Leadership from your deck and put it into your hand. Up to three copies of Matrix of Leadership can fit into the utility slot of your Rodimus Prime, Worthy Leader. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="c161d16b-e58c-4373-b0ac-0e15071033bc" name="Arm the Lonely" size="Small">
+        <property name="Card Number" value="X:S03" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Raider Spinister, Infantry - Aerial Assault has +3 HP. Once per game, at the start of your turn -> You may put a Battle Master upgrade from your KO area onto your Raider Spinister, Infantry - Aerial Assault. If you do, flip this. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="c8ed0ea5-d334-4c11-ab24-fb92ae38a728" name="Barbaric Rage" size="Small">
+        <property name="Card Number" value="X:S05" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="2" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Galvatron, Maniacal Tyrant has +3 HP. While your Galvatron, Maniacal Tyrant is in bot mode, he has +3 ATK and 'When this attacks -> do 2 damage to one of your characters. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="40a9e303-fb4e-4174-ab5b-29b995f23ce5" name="Brothers in Armor" size="Small">
+        <property name="Card Number" value="X:S05" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Sergeant Crosshairs, Artillery - Weapons Supervisor has +3 HP. Once per game, at the start of your turn -> You may put a Battle Master upgrade from your KO area onto your Sergeant Crosshairs, Artillery - Weapons Supervisor. If you do, flip this. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="e2aedf3b-9de5-42d0-8424-bc4db11c70e0" name="Bust Some Deceptichops" size="Small">
+        <property name="Card Number" value="X:S05" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Ironhide, Veteran Autobot has +4 HP. When your Ironhide, Veteran Autobot battles a Decepticon -> Ironhide gets Bold 2 and Tough 2 until end of battle. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="a1edf0d9-1155-4147-872a-0b9c08c4f059" name="Can't Squish This" size="Small">
+        <property name="Card Number" value="X:S07" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="While your Bombshell, Decepticon Psy Ops is defending against an attacker that has Pierce -> Reduce the attacker's Pierce total based on the number of cards in your hand: 1-4 -> Reduce the attacker's Pierce total by 2. 5-7 -> Reduce the attacker's Pierce  total by 3. 8+ -> Reduce the attacker's Pierce total by 4. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
     <card id="5d6d7406-3953-49f7-9c0d-8aceb93f252d" name="Do It With Style!" size="Small">
         <property name="Card Number" value="X:S08" />
         <property name="Type" value="Stratagem" />
         <property name="Stars" value="1" />
         <property name="Faction" value="Autobot" />
         <property name="Text" value="Replace the text 'an enemy that doesn't have Pierce' on your Autobot Jazz, Special Ops with 'an enemy that has 8 Stars or fewer.'" />
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="67b0622d-91f6-42d4-915d-2b04207179ff" name="Drop Your Weapons" size="Small">
+        <property name="Card Number" value="X:S09" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Bluestreak, Reluctant Solider has +3 HP. When your Bluestreak, Reluctant Soldier defends in bot mode and you flip at least [W][O][U] -> The attacker's base ATK becomes 0 during this battle. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="330d95f8-3824-46f1-a72a-d6de317d5377" name="Heat Resistent Body" size="Small">
+        <property name="Card Number" value="X:S10" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Inferno, Fearless Firefighter has +5 HP. When you flip your Inferno, Fearless Firefighter to bot mode -> Repair 1 damage from one of your Autobots. "/>
         <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="440a7a9d-4082-4321-821e-0e3599bf4c76" name="I Don't Break Rules, I Just Bend Them - A Lot" size="Small">
+        <property name="Card Number" value="X:S11" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Once per game, when your Sideswipe, Reckless Warrior is on the battlefield and you flip him to another mode -> You may play up to two Upgrades from your KO area. If you play a card this way, flip this. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="3af18782-e66e-40fc-a1c2-fa975b790cab" name="Made of Sterner Stuff" size="Small">
+        <property name="Card Number" value="X:S12" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Optimus Prime, Battlefield Legend has +3 HP."/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="8a392561-303d-4eea-9037-63416b8700a2" name="Mayhem" size="Small">
+        <property name="Card Number" value="X:S13" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Ruckus, Combat Assault has +2 HP. When your Ruckus, Combat Assault is on the battlefield and you flip him to another mode -> Repair 1 damage from each of your Cars. One of your CArs gets Bold 1 until end of turn. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="96d3f036-633c-4bc5-9ab4-e4887875588a" name="Paranoia" size="Small">
+        <property name="Card Number" value="X:S14" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Your Red Alert, Security Chief has 'When you flip to this mode -> You may scrap a card from your hand. If you do, repair 1 damage from each of your characters. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Stratagem" />
     </card>
     <card id="c68e05bb-eab3-426f-b6cf-27e8aad7323e" name="Predacon Fortitude" size="Small">
@@ -16,6 +133,15 @@
         <property name="Faction" value="Decepticon" />
         <property name="Text" value="For each card under your Sky-Byte, Harbinger of Doom -> He has +1 HP and +1 DEF up to +3 HP and +3 DEF. "/>
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="30bf509c-190b-4c89-ad53-493383520a69" name="Quest for Fire" size="Small">
+        <property name="Card Number" value="X:S16" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Your Firecons have +2 HP. Before the game begins -> You may reveal a Firecon Flame from your deck and put it into your hand. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Stratagem" />
     </card>
     <card id="d0d0fcc7-6e93-42b5-a002-3deec01232dc" name="Scout The Area" size="Small">
@@ -32,8 +158,26 @@
         <property name="Type" value="Stratagem" />
         <property name="Stars" value="1" />
         <property name="Faction" value="Decepticon" />
-        <property name="Text" value="If your starting team has Onslaught and at least one other Combaticon -> Your Starscream, Scheming Second-in-Command has '[TAP], Discard a [K] Action from your hand -> Choose a Combaticon you own from outside the game and deploy it to the battlefield with 2 damage on it. "/>
+        <property name="Text" value="If your starting team has Onslaught and at least one other Combaticon -> Your Starscream, Scheming Second-in-Command has '[TAP], Discard a [K] Action from your hand -> Choose a Combaticon you own from outside the game and deploy it to the battlefield in alt mode with 2 damage on it. "/>
         <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="cc1f566d-58c9-484f-9d8e-fca932ec3404" name="Such Heroic Nonsense" size="Small">
+        <property name="Card Number" value="X:S18" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="When your Megatron, Decepticon Leader is on the battlefield and you flip Hunker Down while battling -> After the battle you may swap a card from your hand for a Hunker Down you flipped this battle as though it had [G]. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
+    <card id="bfa19264-9344-4abb-8dba-b0545e8741da" name="Unstoppable" size="Small">
+        <property name="Card Number" value="X:S20" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="At the start of your turn, if Wreck-Gar, Junkion Leader is in your KO area -> You may put up to 4 Upgrades from your scrap pile into your KO area. If you do, return Wreck-Gar to the battlefield tapped and repair 2 damage from him for each Upgrade put into the KO area this turn. "/>
+        <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Stratagem" />
     </card>
     <card id="f5e6f2c0-f671-4422-bdcd-701a1212d343" name="300-TT Crusher Claw" size="Small">
