@@ -743,7 +743,7 @@
         <property name="Faction" value="Deception" />
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Large Character" />
-        <property name="Text" value="Pierce 2. When this character would take damage -> Reveal the top card of your deck. If it has at least 1 battle icon, you may choose to put it on either Spyglass or Viewfinder. "/>
+        <property name="Text" value="Pierce 2. When this character would take damage -> Reveal the top card of your deck. If it has at least 1 battle icon, you may choose to put that damage on either Spyglass or Viewfinder. "/>
     </card>
     <card id="a660096f-1843-4880-a417-400217f52de3" name="Spyglass - Eager Spy" size="Large">
         <property name="Card Number" value="X:T36" />
@@ -756,7 +756,7 @@
         <property name="Faction" value="Deception" />
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Large Character" />
-        <property name="Text" value="Stealth. When this character would take damage -> Reveal the top card of your deck. If it has at least 2 battle icons, you may choose to put it on either Spectro or Viewfinder. "/>
+        <property name="Text" value="Stealth. When this character would take damage -> Reveal the top card of your deck. If it has at least 2 battle icons, you may choose to put that damage on either Spectro or Viewfinder. "/>
     </card>
     <card id="8c5b5e66-ae59-43b7-9fad-7054733bb9d3" name="Starscream - Noble Swordsman" size="Large">
         <property name="Card Number" value="X:T37" />
