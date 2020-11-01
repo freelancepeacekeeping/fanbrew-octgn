@@ -72,6 +72,15 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Stratagem" />
     </card>
+    <card id="c7b98384-3a07-41ce-9835-c9f11b08274f" name="Quintesson Army" size="Small">
+        <property name="Card Number" value="X:S17" />
+        <property name="Type" value="Stratagem" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="You may have more than 1 Sharkticon, Quintesson Minion on your team. Once per game, when you flip Sharkticon, Quintesson Minion to alt mode -> Draw 2 cards. Then. flip this. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Stratagem" />
+    </card>
     <card id="07011fc9-7849-43cd-805b-fb87a8bee3ed" name="Careful Calculations" size="Small">
         <property name="Card Number" value="X:S18" />
         <property name="Type" value="Stratagem" />
@@ -118,6 +127,17 @@
         <property name="Draft Type" value="Stratagem" />
     </card>
 
+    <card id="bc1061c1-bb3c-4c0c-8dc4-2d6a669d3745" name="Antimatter Chamber" size="Small">
+        <property name="Card Number" value="X:3" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="ATK" value="-1" />
+        <property name="Faction" value="" />
+        <property name="Stars" value="1" />
+        <property name="Text" value="Put this only on an enemy character with an empty Utility slot. The character this is attached to cannot flip unless a battle card or another character tells it to. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="ad22dbfb-ed0a-4a33-a7c9-2f4229ea60c1" name="Apex Armor" size="Small">
         <property name="Card Number" value="X:4" />
         <property name="Type" value="Upgrade - Armor" />
@@ -136,6 +156,25 @@
         <property name="Faction" value="" />
         <property name="Text" value="Do 2 damage to one of your Melee characters. If you do, deal 2 damage to an enemy. If this KO's a character -> Do 1 damage to each enemy. " />
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="5ac73205-0b47-4601-87cc-a4589c74d29e" name="Bot Toss" size="Small">
+        <property name="Card Number" value="X:6" />
+        <property name="Type" value="Action" />
+        <property name="Black Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Do 1 damage to an enemy. If they are in body mode -> Do 2 damage instead. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="8a55451a-5e61-4c1b-82b9-e84eb6045318" name="Camera Flash" size="Small">
+        <property name="Card Number" value="X:7" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Put on Reflector only. When you put this on a character -> Place 2 Reflector Coutners on it. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="60039932-3c0a-48f3-884e-e854ad57c888" name="Dual Hammers" size="Small">
@@ -174,6 +213,17 @@
         <property name="White Pips" value="1" />
         <property name="Faction" value="" />
         <property name="Text" value="When the upgraded character defends -> Do 2 damage to the attacker. Scrap this after the battle. " />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="1e633f81-dc9b-4f14-872c-0085e9a2e989" name="Indistinguishable Defense" size="Small">
+        <property name="Card Number" value="X:20" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="DEF" value="1" />
+        <property name="Text" value="Put only on Clones. Each of your other Clones have +1 DEF. "/>
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
@@ -216,6 +266,26 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="d6d43bd6-6c97-4d19-a16c-cd46f3f87252" name="Quintesson Incursion" size="Small">
+        <property name="Card Number" value="X:30" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Choose one of your Quintessons. When it attacks this turn -> You may choose to either give it +2 ATK until end of turn or draw 2 cards. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="a375b43b-10bb-4ea0-9444-92f65e702c34" name="Seeing Double" size="Small">
+        <property name="Card Number" value="X:30" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="Orange Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Put only on Clones. Each of your other Clones have +1 ATK. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="48a08fa3-ef70-46ed-a69a-2f6db58589d4" name="Starscream's Saber" size="Small">
         <property name="Card Number" value="X:40" />
         <property name="Type" value="Upgrade - Weapon" />
@@ -233,6 +303,16 @@
         <property name="Faction" value="" />
         <property name="Text" value="Repair 1 damage from one of your characters. If that character had taken 10 or more damage, you may repair 1 more from it and draw a card. "/>
         <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="445c705c-9572-472c-9bca-792603e21c10" name="Unending Hatred" size="Small">
+        <property name="Card Number" value="X:44" />
+        <property name="Type" value="Action" />
+        <property name="Black Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Choose one of your characters -> Do 1 damage to each character that is not the faction of the chosen character. "/>
+        <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="77d989a0-605f-4dcd-b5b9-e129651e4267" name="Unorthodox Upgrades" size="Small">
@@ -426,6 +506,26 @@
             <property name="Traits" value="Leader, Ranged" />
         </alternate>
     </card>
+    <card id="94698392-fa0d-42d6-9e70-ba216eba6eb1" name="Autobot Hardhead - Stubborn Soldier" size="Large">
+        <property name="Card Number" value="X:T14" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="4" />
+        <property name="Stars" value="10" />
+        <property name="Traits" value="Tank, Ranged" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="When this is equippped with an Armor -> Each of your characters have Tough 1. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Autobot Hardhead - Stubborn Soldier" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="6" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When this is equippped with a Weapon -> Each of your characters have Pierce 2. "/>
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
     <card id="820b4377-0ca4-4eaf-a9eb-f33e028dc00a" name="Autobot Highbrow - Superior Intellect" size="Large">
         <property name="Card Number" value="X:T15" />
         <property name="Type" value="Character - Alt Mode" />
@@ -546,6 +646,46 @@
             <property name="Traits" value="Leader, Ranged" />
         </alternate>
     </card>
+    <card id="c9a0d7a4-ebf5-481e-817c-a7678c87d3f4" name="Decepticon Scourge - Unparalleled Tracker" size="Large">
+        <property name="Card Number" value="X:T28" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="11" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="7" />
+        <property name="Traits" value="Plane, Melee" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Bold 1. If your starting team was only Decepticons -> This character has +1 DEF. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Decepticon Scourge - Unparalleled Tracker" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="1" />
+            <property name="Text" value="When you play a Decepticon card -> Draw a card and do 1 damage to an enemy character in alt mode. "/>
+            <property name="Traits" value="Ranged" />
+        </alternate>
+    </card>
+    <card id="18bda2aa-6653-415e-bb85-f63b91d7fd86" name="Sharkticon - Quintesson Minion" size="Large">
+        <property name="Card Number" value="X:T30" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="5" />
+        <property name="HP" value="12" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="8" />
+        <property name="Traits" value="Quintesson, Melee" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="The effects on this card change depending on how many Sharkticons you had at the start of the game. 1-2: When you flip to this mode -> You may scrap a card from your hand to repair 1 damage from one of your Sharkticons. 3+: When you flip to this mode: You may scrap a card from your hand to repair 1 damage from one of your Sharkticons and draw a card if you have 2 or less cards in your hand. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Sharkticon - Quintesson Minion" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="4" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="The effects on this card change depending on how many Sharkticons you have on the battlefield. 1-2: This has Bold 1 for each Sharkticon in bot mode. 3+: This has Bold 1 for each Sharkticon in bot mode and Pierce 1 for each Sharkticon in alt mode. "/>
+            <property name="Traits" value="Quintesson, Melee" />
+        </alternate>
+    </card>
     <card id="c8fb872e-92b4-431d-b40f-21d58d6edc72" name="Autobot Skids - Forgettable Theoretician" size="Large">
         <property name="Card Number" value="X:T32" />
         <property name="Type" value="Character - Alt Mode" />
@@ -592,6 +732,32 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Large Character" />
     </card>
+    <card id="74eaab45-5deb-4813-91b8-0482a50f4194" name="Spectro - Dependant Infiltrator" size="Large">
+        <property name="Card Number" value="X:T35" />
+        <property name="Type" value="Character - Bot Mode" />
+        <property name="ATK" value="3" />
+        <property name="HP" value="9" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Reflector, Ranged" />
+        <property name="Faction" value="Deception" />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Large Character" />
+        <property name="Text" value="Pierce 2. When this character would take damage -> Reveal the top card of your deck. If it has at least 1 battle icon, you may choose to put it on either Spyglass or Viewfinder. "/>
+    </card>
+    <card id="a660096f-1843-4880-a417-400217f52de3" name="Spyglass - Eager Spy" size="Large">
+        <property name="Card Number" value="X:T36" />
+        <property name="Type" value="Character - Bot Mode" />
+        <property name="ATK" value="4" />
+        <property name="HP" value="8" />
+        <property name="DEF" value="0" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Reflector, Melee" />
+        <property name="Faction" value="Deception" />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Large Character" />
+        <property name="Text" value="Stealth. When this character would take damage -> Reveal the top card of your deck. If it has at least 2 battle icons, you may choose to put it on either Spectro or Viewfinder. "/>
+    </card>
     <card id="8c5b5e66-ae59-43b7-9fad-7054733bb9d3" name="Starscream - Noble Swordsman" size="Large">
         <property name="Card Number" value="X:T37" />
         <property name="Type" value="Character - Alt Mode" />
@@ -632,6 +798,19 @@
             <property name="Traits" value="Specialist" />
         </alternate>
     </card>
+    <card id="2d75e9a8-1b8e-46dd-99d2-5b7aa35fc4bb" name="Viewfinder - Master of Observation" size="Large">
+        <property name="Card Number" value="X:T41" />
+        <property name="Type" value="Character - Bot Mode" />
+        <property name="ATK" value="2" />
+        <property name="HP" value="10" />
+        <property name="DEF" value="2" />
+        <property name="Stars" value="6" />
+        <property name="Traits" value="Reflector, Specialist" />
+        <property name="Faction" value="Deception" />
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Large Character" />
+        <property name="Text" value="Brave. When this character would take damage -> Reveal the top card of your deck. If it has at least 3 battle icons, you may put that damage on either Spectro or Spyglass. Revenge -> Combine Spectro, Spyglass and this character into Reflector, Spymaster. "/>
+    </card>
     <card id="8ebb42d8-570a-4597-a8fc-00e4596d067b" name="Autobot Wheelie - Skillful Survivor" size="Large">
         <property name="Card Number" value="X:T42" />
         <property name="Type" value="Character - Alt Mode" />
@@ -652,6 +831,26 @@
             <property name="Traits" value="Melee" />
         </alternate>
     </card>
+    <card id="2d2d0089-a284-4241-a683-8064379dd1ce" name="Wreck-Gar - Warbling Junkion" size="Large">
+        <property name="Card Number" value="X:T43" />
+        <property name="Type" value="Character - Alt Mode" />
+        <property name="ATK" value="6" />
+        <property name="HP" value="13" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="10" />
+        <property name="Traits" value="Motorcycle, Melee" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="Before the game begins -> You may put a Junk Cannon from your deck onto this. Each time your opponent plays an Upgrade from their hand -> Your opponent chooses one of their characters and does 1 damage to it. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Large Character" />
+        <alternate name="Wreck-Gar - Warbling Junkion" type="bot" size="Large">
+            <property name="Type" value="Character - Bot Mode" />
+            <property name="ATK" value="5" />
+            <property name="DEF" value="2" />
+            <property name="Text" value="When this does enough attack damage to KO an enemy -> Use this card's Bounty ability. Bounty -> Attack an Upgrade from your opponent's scrap pile to this character. "/>
+            <property name="Traits" value="Melee" />
+        </alternate>
+    </card>
     <card id="9b5f9e7b-b90c-46a0-a0d3-632d338c9759" name="Sky Lynx - Magnificent Warrior" size="Extra Large">
         <property name="Card Number" value="X:" />
         <property name="Type" value="Character - Alt Mode" />
@@ -663,6 +862,19 @@
         <property name="Faction" value="Autobot" />
         <property name="Text" value="Bold 1, Tough 1, Pierce 4. When this combines -> Do damage to an enemy Decepticon equal to the number of counters on your Starboard Entrance. " />
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Excluded" />
+    </card>
+    <card id="bd0dd72d-78a5-45a4-a99e-2d7273d12bc6" name="Reflector - Spymaster" size="Extra Large">
+        <property name="Card Number" value="X:" />
+        <property name="Type" value="Character - Combiner Alt Mode" />
+        <property name="ATK" value="*" />
+        <property name="HP" value="27" />
+        <property name="DEF" value="3" />
+        <property name="Stars" value="18" />
+        <property name="Traits" value="Reflector, Specialist" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="When this combines -> Put 5 Reflector Counters on this. You may look at your opponent's hand at any time. This character's ATK is equal to the amount of Reflector Counters on this. "/>
+        <property name="Rarity" value="" />
         <property name="Draft Type" value="Excluded" />
     </card>
 </cards>
