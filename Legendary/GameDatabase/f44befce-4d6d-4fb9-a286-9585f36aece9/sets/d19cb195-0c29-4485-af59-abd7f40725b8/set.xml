@@ -853,7 +853,7 @@
     </card>
     <card id="9b5f9e7b-b90c-46a0-a0d3-632d338c9759" name="Sky Lynx - Magnificent Warrior" size="Extra Large">
         <property name="Card Number" value="X:" />
-        <property name="Type" value="Character - Alt Mode" />
+        <property name="Type" value="Character - Combiner Mode" />
         <property name="ATK" value="7" />
         <property name="HP" value="21" />
         <property name="DEF" value="3" />
