@@ -33,7 +33,7 @@
             <property name="Rarity" value="Uncommon" />
             <property name="Draft Type" value="Stratagem" />
         </card>
-        <card id="e5b4dea5-8caa-425e-9353-d181588a9ee5" name="Lord of the Jungle" size="Small">
+        <card id="e5b4dea5-8caa-425e-9353-d181588a9ee1" name="Lord of the Jungle" size="Small">
             <property name="Card Number" value="X:S06" />
             <property name="Type" value="Stratagem" />
             <property name="Faction" value="Autobot" />
