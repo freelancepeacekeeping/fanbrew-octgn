@@ -1,0 +1,109 @@
+
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Erratagems - Set 1" id="fbc0f853-cf63-4d99-97bf-921285a61825" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+    <cards>
+        <card id="ad90b35d-bdaa-46d8-b068-82b5754809ce" name="Brute Force" size="Small">
+            <property name="Card Number" value="X:S01" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Steeljaw and Ramhorn have the Beast trait in bot mode. "/>
+            <property name="Rarity" value="Rare" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="8be09544-531c-463b-9644-46929364842b" name="Compact Cassettes" size="Small">
+            <property name="Card Number" value="X:S02" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Characters with the Mini-Cassette and Spy-Patrol traits are Specialists in alt mode. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="afcc3718-3d5c-44e5-ac1f-d1156eb08b4d" name="Flying Bat" size="Small">
+            <property name="Card Number" value="X:S03" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Mindwipe, Hypnotist is Ranged in alt mode. "/>
+            <property name="Rarity" value="Uncommon" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="829dfb00-3fbe-4eff-8257-67a1029bcb9c" name="Gleaming Truck" size="Small">
+            <property name="Card Number" value="X:S04" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Optimus Prime, Gleaming Commander is a Truck in alt mode. "/>
+            <property name="Rarity" value="Uncommon" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="e5b4dea5-8caa-425e-9353-d181588a9ee5" name="Lord of the Jungle" size="Small">
+            <property name="Card Number" value="X:S06" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Ravage has the Beast trait in bot mode. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="e312fee1-0e53-4335-a0b2-a9e64f0be1c2" name="Needs Confidence" size="Small">
+            <property name="Card Number" value="X:S07" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Silverbolt, Aerialbot Leader is a Leader. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="525ea186-0905-4476-b9a6-f33b3353f916" name="Pure Animal" size="Small">
+            <property name="Card Number" value="X:S08" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Ant character with the Firecon trait, also has the Beast trait in alt mode. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="63c4f909-d316-4de5-97ba-b89ab17d52c4" name="Roadbustered" size="Small">
+            <property name="Card Number" value="X:S09" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Roadbuster, Ground Assault Commander is a Truck and Ranged in alt mode, and Melee in bot mode. "/>
+            <property name="Rarity" value="Super Rare" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="cca57331-a858-47c9-ac02-2bdbe2618205" name="Screech" size="Small">
+            <property name="Card Number" value="X:S10" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Ratbat, Laserbeak, and Buzzsaw have the Beast trait in bot mode. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="74f56266-af0c-4ce1-ab24-153ef794a537" name="Smashing Asunder" size="Small">
+            <property name="Card Number" value="X:S11" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Motormaster, Stunticon Leader has the Melee trait in alt mode. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="bd4d6a2b-679b-4a37-a995-15890f465a29" name="Totally Tonka" size="Small">
+            <property name="Card Number" value="X:S12" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Any character with the Constructicon trait, also has teh Truck trait in alt mode. "/>
+            <property name="Rarity" value="Rare" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="baab1c4c-98cf-4ca7-9942-42d8294642a1" name="Unleash the Beast Within" size="Small">
+            <property name="Card Number" value="X:S13" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Any character with the Predacon trait, also has the Beast trait in alt mode. "/>
+            <property name="Rarity" value="Uncommon" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+        <card id="88c0adea-58aa-4ac3-a724-a585b2235e64" name="Wreck'n'Rule" size="Small">
+            <property name="Card Number" value="X:S01" />
+            <property name="Type" value="Stratagem" />
+            <property name="Faction" value="Autobot" />
+            <property name="Text" value="ERRATA: Springer, Sandstorm, Impactor, and Kup all gain the Wreckers trait. "/>
+            <property name="Rarity" value="Common" />
+            <property name="Draft Type" value="Stratagem" />
+        </card>
+    </cards>
+</set>
