@@ -743,7 +743,7 @@
         <property name="Faction" value="Deception" />
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Large Character" />
-        <property name="Text" value="Pierce 2. When this character would take damage -> Reveal the top card of your deck. If it has at least 1 battle icon, you may choose to put that damage on either Spyglass or Viewfinder. "/>
+        <property name="Text" value="Pierce 2. When this character would take damage -> Reveal the top card of your deck. If it has at least 1 battle icon, you may choose to put that damage on your Viewfinder. "/>
     </card>
     <card id="a660096f-1843-4880-a417-400217f52de3" name="Spyglass - Eager Spy" size="Large">
         <property name="Card Number" value="X:T36" />
@@ -756,7 +756,7 @@
         <property name="Faction" value="Deception" />
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Large Character" />
-        <property name="Text" value="Stealth. When this character would take damage -> Reveal the top card of your deck. If it has at least 2 battle icons, you may choose to put that damage on either Spectro or Viewfinder. "/>
+        <property name="Text" value="Stealth. When this character would take damage -> Reveal the top card of your deck. If it has at least 2 battle icons, you may choose to put that damage on your Viewfinder. "/>
     </card>
     <card id="8c5b5e66-ae59-43b7-9fad-7054733bb9d3" name="Starscream - Noble Swordsman" size="Large">
         <property name="Card Number" value="X:T37" />
@@ -809,7 +809,7 @@
         <property name="Faction" value="Deception" />
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Large Character" />
-        <property name="Text" value="Brave. When this character would take damage -> Reveal the top card of your deck. If it has at least 3 battle icons, you may put that damage on either Spectro or Spyglass. Revenge -> Combine Spectro, Spyglass and this character into Reflector, Spymaster. "/>
+        <property name="Text" value="Brave. Revenge -> If you have Spectro and Spyglass on the battlefield or in the KO area, you may combine this with them into Reflector, Spymaster. "/>
     </card>
     <card id="8ebb42d8-570a-4597-a8fc-00e4596d067b" name="Autobot Wheelie - Skillful Survivor" size="Large">
         <property name="Card Number" value="X:T42" />
