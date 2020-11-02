@@ -180,6 +180,7 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Stratagem" />
     </card>
+
     <card id="f5e6f2c0-f671-4422-bdcd-701a1212d343" name="300-TT Crusher Claw" size="Small">
         <property name="Card Number" value="X:1" />
         <property name="Type" value="Upgrade - Utility" />
@@ -189,12 +190,34 @@
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="4582401e-2ee6-4e55-9145-a0e423e9aa35" name="Aerial Superiority" size="Small">
+        <property name="Card Number" value="X:2" />
+        <property name="Type" value="Action" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Choose one of your characters. When it attacks this turn, if it's a Plane, Helicopter, or Spaceship and is attacking a Truck, Car, or Tank -> The chosen character gets +4 ATK and Pierce 4 until end of battle. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="62168313-4da6-472d-b5f2-147bb5845ea0" name="Alliance" size="Small">
         <property name="Card Number" value="X:3" />
         <property name="Type" value="Action" />
         <property name="White Pips" value="1" />
         <property name="Text" value="Play only if you had an Autobot and a Decepticon on your starting team. Until end of turn, each of your characters' base ATK is 6. At end of turn -> Do 2 damage to each of your characters that attacked this turn. "/>
         <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="dd6f2223-d05f-4715-b316-e6256b0ae798" name="Apex Armor" size="Small">
+        <property name="Card Number" value="X:4" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Orange Pips" value="1" />
+        <property name="Black Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Stars" value="2" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Can't be put on Decepticons. When the upgraded character defends and you flip at least [B] -> Move 1 damage counter from the upgraded character to the attacker. When the upgraded character defends and you flip at least [O][U] -> Repair 1 damage from the upgraded character. Do 1 damage to the attacker. "/>
+        <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="e33851a2-936d-4098-a279-b0d171c4f309" name="Assault Formation" size="Small">
@@ -207,12 +230,30 @@
         <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="2fadf338-f68a-425e-ba14-451277cfb540" name="Beast Mode" size="Small">
+        <property name="Card Number" value="X:6" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Text" value="Choose one of your characters that's a Predacon or Beast. When it attacks an enemy in bot or body mode this turn -> The attacking character gets Bold 4 until end of battle. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="ffd6f639-f0fb-4cd6-9f42-8e091e941688" name="Cacophonous Failure" size="Small">
         <property name="Card Number" value="X:7" />
         <property name="Type" value="Secret Action" />
         <property name="Green Pips" value="1" />
         <property name="Text" value="Reveal -> As your opponent plays an action with no battle icons.  When Revealed -> Scrap that Action and it has no effect. "/>
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="ddc5494e-7410-4aeb-af1d-3a1e66c3584e" name="Cloaking Screen" size="Small">
+        <property name="Card Number" value="X:8" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Text" value="The upgraded character has Stealth while untapped. "/>
+        <property name="Rarity" value="Common" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="3694faa7-1f90-4e6c-80e2-f07a8c7d8481" name="Cloud Cover" size="Small">
@@ -233,10 +274,77 @@
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="25b5762a-9638-442c-99ab-aa058f476ee2" name="Cosmic Rust Cannon" size="Small">
+        <property name="Card Number" value="X:11" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Black Pips" value="1" />
+        <property name="ATK" value="4" />
+        <property name="Faction" value="" />
+        <property name="Text" value="When the upgraded character attacks -> Do 1 damage to it. After battle, do 1 more damage to tht character unless you scrap an Upgrade from it. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="ce7798e3-b3bc-4a12-aeae-b4b3c431db9a" name="Crack Back" size="Small">
+        <property name="Card Number" value="X:12" />
+        <property name="Type" value="Secret Action" />
+        <property name="Green Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Text" value="Reveal -> When one of your characters defends and you flip battle cards. When Revealed -> If your defender's DEF is greater than the attacker's ATK, do damage to the attacker equal to the difference. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="166dacf9-ba77-4d7e-a5f8-5ba26ac7afe7" name="Crushing Claws" size="Small">
+        <property name="Card Number" value="X:13" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Blue Pips" value="1" />
+        <property name="ATK" value="2" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Up to 2 Crushing Claws can fit into 1 of Scorponok's Weapon slots. When the upgraded character attacks, if you have no other characters and flip at least [O][B][U] -> Do 1 damage to each enemy. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="75ee11b6-5a1e-4085-ad94-96df2237d59b" name="Dare To Believe" size="Small">
+        <property name="Card Number" value="X:14" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Text" value="Draw a card. One of your characters gets Bold 1 until end of turn. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="c3469642-b364-4d5d-b2dc-b918828a205f" name="Death To The Weak" size="Small">
         <property name="Card Number" value="X:15" />
         <property name="Type" value="Action" />
         <property name="Text" value="You may KO one of your characters that has 5 Stars or fewer. If you do, do 3 damage to an enemy and repair 3 damage from one of your other characters. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="948e0197-a0d5-4561-aa97-714601f135bb" name="Electro Stinger of Scorponok" size="Small">
+        <property name="Card Number" value="X:16" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Put on Scorponok only. Pierce 2. This can't be scrapped by your opponent's cards. While Scorponok has Crushing Claws and Zarak's Shield -> He gets an additional Pierce 5. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="b0102d91-4eeb-4490-b6a9-122a2260a250" name="Energon Sword" size="Small">
+        <property name="Card Number" value="X:17" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Blue Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Put on Melee characters only. When the upgraded character attacks and you flip at least [U][U] -> The defender's base DEF becomes 0 during this battle. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="06ebea19-a7b2-44db-b11b-a9abc946563f" name="Feral Tenacity" size="Small">
+        <property name="Card Number" value="X:18" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Orange Pips" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Faction" value="" />
+        <property name="Text" value="Put only on Predacons or Beasts. When the upgraded character takes damage -> Put 1 rage coutner on this. The upgraded characters gets +1 ATK for each rage counter on this. At the end of your turn -> Remove all rage counters from this. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
@@ -252,6 +360,71 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="5b7eadfa-3efd-4a9d-9cc0-68516139b3af" name="H-M Laser Cannon" size="Small">
+        <property name="Card Number" value="X:20" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Blue Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Can't be put on Decepticons. When you put this on a Gurdian or a character in Combiner mode -> Do 2 damage to each enemy. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="c2f0c582-3eba-4a32-b90b-121c2d3dd199" name="Nothin's Gonna Stand In Our Way" size="Small">
+        <property name="Card Number" value="X:21" />
+        <property name="Type" value="Action" />
+        <property name="White Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="One of your characters gets Pierce 1 until end of turn. If this is the third Notin's Gonna Stand In Our Way you've played this turn -> Untap one of your characters with 12 Stars or fewer. You may play another Nothin's Gonna Stand In Our Way. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="a129167e-9668-47e9-80fa-a604db173790" name="Particle Cannon Of Galvatron" size="Small">
+        <property name="Card Number" value="X:22" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="2" />
+        <property name="Faction" value="Autobot" />
+        <property name="Text" value="Put on Galvatron only. Bold 1. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="1dbf555a-c357-43d1-839f-7688ff2496af" name="Racing Stripes" size="Small">
+        <property name="Card Number" value="X:23" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Blue Pips" value="1" />
+        <property name="Text" value="Put only on Motorcycles, Sentinels, or Stunticons. When you flip battle cards while the upgraded character defends -> Until end of battle, the upgraded character gets +DEF equal to half the number of different battle icons you flipped this battle, rounded up. Do that much damage to the attacker. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="753547cc-27e2-453b-9012-2e770cafe1f5" name="Resilience" size="Small">
+        <property name="Card Number" value="X:24" />
+        <property name="Type" value="Action" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="Repair 5 damage from one of your characters that has 19 Stars or more. Then put this card into your KO area. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="56cbeab3-c799-4c5f-a185-631a10b4c3b7" name="Scan The Vaults" size="Small">
+        <property name="Card Number" value="X:25" />
+        <property name="Type" value="Action" />
+        <property name="Blue Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="Draw a card. Then draw a card for each Scan the Vaults in your scrap pile. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="d69c08c0-0f52-457d-880e-75ad7b56d638" name="Sharkticon Mace" size="Small">
+        <property name="Card Number" value="X:26" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Black Pips" value="1" />
+        <property name="ATK" value="2" />
+        <property name="Faction" value="Mercenary" />
+        <property name="Text" value="After the upgraded character attacks -> Scrap this card. If the upgraded character is a Sharkticon, put this on one of your other Sharkticons instead. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="f8098bbf-065f-4d12-9b3f-6b83f11dafaa" name="Spoils Of War" size="Small">
         <property name="Card Number" value="X:27" />
         <property name="Type" value="Action" />
@@ -260,12 +433,66 @@
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="cca3eba7-2e78-4ba1-b9d0-466953e714f6" name="Starscream's Cape" size="Small">
+        <property name="Card Number" value="X:28" />
+        <property name="Type" value="Upgrade - Utility" />
+        <property name="White Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Faction" value="Decepticon" />
+        <property name="Text" value="Put on Starscream only. This can be in an Armor slot. Increase each number in the upgraded character's text box by 1. This effect does not modify abilities granted by upgrades or other effects. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="3801c098-f24a-475d-949d-f694daa6b42d" name="Stasis Field" size="Small">
         <property name="Card Number" value="X:29" />
         <property name="Type" value="Secret Action" />
         <property name="Blue Pips" value="1" />
         <property name="Text" value="Reveal -> When one of your characters defends against an enemy in bot or body mode.  When Revealed -> The attacking player flips that attacker to alt mode. "/>
         <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="669fbcd4-8ed3-4afe-8d63-1e321b13cf6f" name="Stormfall Sword" size="Small">
+        <property name="Card Number" value="X:30" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="White Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Text" value="Pierce 2. When this is on Windblade -> She has Tough 1. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="aab78df7-4c60-436e-a0b3-81e889c1d714" name="Cacophonous Failure" size="Small">
+        <property name="Card Number" value="X:31" />
+        <property name="Type" value="Secret Action" />
+        <property name="Text" value="Reveal -> After your opponent chooses an attacker and before they choose a defender.  When Revealed -> KO one of your characters. Then untap one of your other characters. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="b772b33f-9e09-4a7c-8001-ca6ca0bfcda7" name="The Touch" size="Small">
+        <property name="Card Number" value="X:32" />
+        <property name="Type" value="Action" />
+        <property name="Orange Pips" value="1" />
+        <property name="Blue Pips" value="1" />
+        <property name="Text" value="One of your Autobot Leaders gets Bold 4 until end of turn. If that character is upgraded with Matrix of Leadership -> Repair 3 damage from it. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="a15295ce-83a7-412b-b43d-fbe9129a6f33" name="This Is Bad Comedy" size="Small">
+        <property name="Card Number" value="X:33" />
+        <property name="Type" value="Action" />
+        <property name="White Pips" value="1" />
+        <property name="Text" value="Choose an enemy character. Scrap a Utility from it, then do 1 damage to it. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="877d654a-cd16-4eb0-9887-fbcd6d15b331" name="Trithyllium Plating" size="Small">
+        <property name="Card Number" value="X:34" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="DEF" value="1" />
+        <property name="Text" value="When you play this from hand -> You may play a Trithyllium Plating from your scrap pile. Up to 3 Trithyllium Platings can fit in 1 Armor slot. While the upgraded character is defending against an enemy that has Pierce -> Reduce that enemy's Pierce total by 2. "/>
+        <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
     </card>
     <card id="5a1094df-5057-4e52-a6af-c308e042e663" name="Tsunami Blaster" size="Small">
@@ -278,6 +505,14 @@
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
+    <card id="c5aa6cd3-2b4b-4a8e-a8cd-6f2160f7edbc" name="Twisted Logic" size="Small">
+        <property name="Card Number" value="X:36" />
+        <property name="Type" value="Secret Action" />
+        <property name="White Pips" value="1" />
+        <property name="Text" value="Reveal -> When one of your characters defends.  When Revealed -> Reveal the top 5 cards of your opponent's deck. Put them back in any order. "/>
+        <property name="Rarity" value="Common" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
     <card id="f9f0ad3b-edca-4ae7-86c8-014d6caf8773" name="Unfriendly Fire" size="Small">
         <property name="Card Number" value="X:37" />
         <property name="Type" value="Upgrade - Utility" />
@@ -285,6 +520,34 @@
         <property name="Black Pips" value="1" />
         <property name="DEF" value="1" />
         <property name="Text" value="Put on Combaticons only. When the upgraded character defends and your opponent flips battle icons of at least 3 different colors -> Do 2 damage to an enemy. "/>
+        <property name="Rarity" value="Rare" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="2f908a9d-5dbd-470c-8989-8a39e1cccedc" name="Vamparc Ribbon" size="Small">
+        <property name="Card Number" value="X:38" />
+        <property name="Type" value="Upgrade - Weapon" />
+        <property name="Orange Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="ATK" value="1" />
+        <property name="Text" value="When the upgraded character attacks and does 4 or more attack damage -> Repair 2 damage from the upgraded character. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="435c3366-9275-40ef-b05b-81eba5c66723" name="Wanna Bet?" size="Small">
+        <property name="Card Number" value="X:39" />
+        <property name="Type" value="Secret Action" />
+        <property name="White Pips" value="1" />
+        <property name="Green Pips" value="1" />
+        <property name="Text" value="Reveal -> If one of more battle cards would be put under a character.  When Revealed -> Until end of turn, if one or more battle carsd would be put under a character, scrap those battle cards instead. "/>
+        <property name="Rarity" value="Uncommon" />
+        <property name="Draft Type" value="Battle Card" />
+    </card>
+    <card id="11328413-5c5b-4882-8a0a-a52849f4293f" name="Zarak's Shield" size="Small">
+        <property name="Card Number" value="X:40" />
+        <property name="Type" value="Upgrade - Armor" />
+        <property name="Orange Pips" value="1" />
+        <property name="DEF" value="1" />
+        <property name="Text" value="While this is on Scorponok -> He gets +1 DEF. While this is on Zarak -> He can't take more than 3 attack damage from a single attack. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
     </card>
