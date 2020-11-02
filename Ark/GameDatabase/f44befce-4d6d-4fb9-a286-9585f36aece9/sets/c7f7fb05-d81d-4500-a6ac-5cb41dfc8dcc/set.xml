@@ -270,6 +270,7 @@
         <property name="Card Number" value="X:10" />
         <property name="Type" value="Action" />
         <property name="Green Pips" value="1" />
+        <property name="Faction" value="Mercenary" />
         <property name="Text" value="If you have Bruticus on the battlefield -> He gets Pierce 2 until end of turn. If you have 5 Combaticons in bot mode on the battlefield and/or in your KO area -> Combine them into Bruticus, Unstoppable Giant. "/>
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
@@ -355,6 +356,7 @@
         <property name="Black Pips" value="1" />
         <property name="ATK" value="3" />
         <property name="DEF" value="1" />
+        <property name="Stars" value="2" />
         <property name="Faction" value="Autobot" />
         <property name="Text" value="Put on Dinobots only. Bold 3. Pierce 3. "/>
         <property name="Rarity" value="Rare" />
@@ -385,7 +387,7 @@
         <property name="Blue Pips" value="1" />
         <property name="Green Pips" value="1" />
         <property name="ATK" value="2" />
-        <property name="Faction" value="Autobot" />
+        <property name="Faction" value="Decepticon" />
         <property name="Text" value="Put on Galvatron only. Bold 1. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
@@ -459,6 +461,7 @@
         <property name="White Pips" value="1" />
         <property name="Green Pips" value="1" />
         <property name="ATK" value="1" />
+        <property name="Faction" value="Autobot" />
         <property name="Text" value="Pierce 2. When this is on Windblade -> She has Tough 1. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
@@ -475,6 +478,8 @@
         <property name="Type" value="Action" />
         <property name="Orange Pips" value="1" />
         <property name="Blue Pips" value="1" />
+        <property name="Stars" value="1" />
+        <property name="Faction" value="Autobot" />
         <property name="Text" value="One of your Autobot Leaders gets Bold 4 until end of turn. If that character is upgraded with Matrix of Leadership -> Repair 3 damage from it. "/>
         <property name="Rarity" value="Uncommon" />
         <property name="Draft Type" value="Battle Card" />
@@ -501,6 +506,7 @@
         <property name="Orange Pips" value="1" />
         <property name="Green Pips" value="1" />
         <property name="ATK" value="1" />
+        <property name="Faction" value="Decepticon" />
         <property name="Text" value="Can't be put on Autobots. The upgraded character has Bold 1 for each card under it, up to Bold 4. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
@@ -519,6 +525,7 @@
         <property name="White Pips" value="1" />
         <property name="Black Pips" value="1" />
         <property name="DEF" value="1" />
+        <property name="Faction" value="Mercenary" />
         <property name="Text" value="Put on Combaticons only. When the upgraded character defends and your opponent flips battle icons of at least 3 different colors -> Do 2 damage to an enemy. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
@@ -547,6 +554,7 @@
         <property name="Type" value="Upgrade - Armor" />
         <property name="Orange Pips" value="1" />
         <property name="DEF" value="1" />
+        <property name="Faction" value="Decepticon" />
         <property name="Text" value="While this is on Scorponok -> He gets +1 DEF. While this is on Zarak -> He can't take more than 3 attack damage from a single attack. "/>
         <property name="Rarity" value="Rare" />
         <property name="Draft Type" value="Battle Card" />
