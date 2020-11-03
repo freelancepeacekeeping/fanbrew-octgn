@@ -1,11 +1,12 @@
-VERSION='1.4.1'
-ZIP_FILE="OCTGN-Fanbrew-${VERSION}.zip"
+VERSION='1.5'
 
-rm -f ${ZIP_FILE}
+rm -f releases/*
 for i in [A-Z]*/
 do
     echo "Adding ${i}"
     cd $i
-    zip -qr ../${ZIP_FILE} GameDatabase ImageDatabase Fanbrew-Decks
+    noslash=`echo $i | sed 's/\/$//'`
+    zip -qr ../releases/OCTGN-Fanbrew-${VERSION}-${noslash}.zip GameDatabase ImageDatabase Fanbrew-Decks
+    zip -qr ../releases/OCTGN-Fanbrew-${VERSION}-EVERYTHING.zip GameDatabase ImageDatabase Fanbrew-Decks
     cd - > /dev/null
 done
