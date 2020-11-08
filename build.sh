@@ -1,7 +1,7 @@
 VERSION='1.5'
 
 rm -f releases/*
-for i in [A-Z]*/
+for i in [AC-Z]*/
 do
     echo "Adding ${i}"
     cd $i
