@@ -117,7 +117,7 @@
 <property name="Orange Pips" value="1" />
 <property name="Blue Pips" value="1" />
 <property name="ATK" value="3" />
-<property name="Text" value="Put on Decepticons only. When this is on Menasor, Menacing Colossus, he attacks, and you flip at least [O][U] -> Draw a card. " />
+<property name="Text" value="Put on Decepticons only. When your Menasor, Menacing Colossus attacks, and you flip at least [O][U] -> Draw a card. " />
 <property name="Rarity" value="Uncommon" />
 </card>
 <card id="18c0ee15-dca4-4921-a692-45626057858b" name="Lock-On Lasers" size="Small">
