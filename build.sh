@@ -1,4 +1,4 @@
-VERSION='1.6'
+VERSION='1.6.1'
 
 rm -f releases/*
 for i in [AC-Z]*/
