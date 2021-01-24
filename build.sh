@@ -1,5 +1,6 @@
 VERSION='1.6.1'
 
+mkdir -p releases
 rm -f releases/*
 for i in [AC-Z]*/
 do
